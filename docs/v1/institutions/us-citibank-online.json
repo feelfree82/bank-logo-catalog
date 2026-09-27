@@ -1,0 +1,19 @@
+{
+  "id": "us-citibank-online",
+  "country": "US",
+  "name": "Citibank Online",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "b68eef4e8afa103c",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-citibank-online/icon.svg?v=8341e8fe27f05d3c",
+      "png": "v1/assets/us/us-citibank-online/icon.png?v=f2014ace91c2a77b",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "us-metropolitan-commercial-bank-ny-business",
+  "country": "US",
+  "name": "Metropolitan Commercial Bank (NY) - Business",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "411378aae7fa72c9",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-metropolitan-commercial-bank-ny-business/icon.svg?v=19aa925801cdaff6",
+      "png": "v1/assets/us/us-metropolitan-commercial-bank-ny-business/icon.png?v=7ba24e48829d515f",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

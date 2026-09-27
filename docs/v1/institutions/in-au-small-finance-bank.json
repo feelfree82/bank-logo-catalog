@@ -1,0 +1,22 @@
+{
+  "id": "in-au-small-finance-bank",
+  "country": "IN",
+  "name": "AU Small Finance Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "c6a94bbb9be2274b",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-au-small-finance-bank/icon.svg?v=393f5ebfbc4322da",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-au-small-finance-bank/wordmark.svg?v=e044779cff0c8b92",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

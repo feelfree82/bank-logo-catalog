@@ -1,0 +1,22 @@
+{
+  "id": "in-standard-chartered-bank",
+  "country": "IN",
+  "name": "Standard Chartered Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "c621d9c0cfe57137",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-standard-chartered-bank/icon.svg?v=e5af1afd2506bfe5",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-standard-chartered-bank/wordmark.svg?v=20202ebb699dfb0e",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

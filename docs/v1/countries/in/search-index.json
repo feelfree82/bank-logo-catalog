@@ -1,0 +1,389 @@
+{
+  "schema_version": 1,
+  "country": "IN",
+  "generated_at": "2026-09-28",
+  "institutions": [
+    {
+      "id": "in-abn-amro",
+      "name": "ABN AMRO",
+      "aliases": []
+    },
+    {
+      "id": "in-airtel-payments-bank",
+      "name": "Airtel Payments Bank",
+      "aliases": []
+    },
+    {
+      "id": "in-american-express",
+      "name": "American Express",
+      "aliases": []
+    },
+    {
+      "id": "in-au-small-finance-bank",
+      "name": "AU Small Finance Bank",
+      "aliases": []
+    },
+    {
+      "id": "in-australia-and-new-zealand-banking-group",
+      "name": "Australia and New Zealand Banking Group",
+      "aliases": []
+    },
+    {
+      "id": "in-axis-bank",
+      "name": "Axis bank",
+      "aliases": []
+    },
+    {
+      "id": "in-bandhan-bank",
+      "name": "Bandhan Bank",
+      "aliases": []
+    },
+    {
+      "id": "in-maybank-indonesia",
+      "name": "Maybank Indonesia",
+      "aliases": [
+        "Bank Maybank Indonesia"
+      ]
+    },
+    {
+      "id": "in-bank-of-america",
+      "name": "Bank of America",
+      "aliases": []
+    },
+    {
+      "id": "in-bank-of-bahrain-and-kuwait",
+      "name": "Bank of Bahrain and Kuwait",
+      "aliases": []
+    },
+    {
+      "id": "in-bank-of-baroda",
+      "name": "Bank of Baroda",
+      "aliases": []
+    },
+    {
+      "id": "in-bank-of-ceylon",
+      "name": "Bank of Ceylon",
+      "aliases": []
+    },
+    {
+      "id": "in-bank-of-china",
+      "name": "Bank of China",
+      "aliases": []
+    },
+    {
+      "id": "in-bank-of-india",
+      "name": "Bank of India",
+      "aliases": []
+    },
+    {
+      "id": "in-bank-of-maharashtra",
+      "name": "Bank of Maharashtra",
+      "aliases": [
+        "Bank of Maharastra"
+      ]
+    },
+    {
+      "id": "in-barclays-bank",
+      "name": "Barclays Bank",
+      "aliases": []
+    },
+    {
+      "id": "in-bnp-paribas",
+      "name": "BNP Paribas",
+      "aliases": []
+    },
+    {
+      "id": "in-canara-bank",
+      "name": "Canara Bank",
+      "aliases": []
+    },
+    {
+      "id": "in-central-bank-of-india",
+      "name": "Central Bank of India",
+      "aliases": []
+    },
+    {
+      "id": "in-citibank",
+      "name": "Citibank",
+      "aliases": [
+        "Citi Bank",
+        "Citibank N.A."
+      ]
+    },
+    {
+      "id": "in-city-union-bank",
+      "name": "City Union Bank",
+      "aliases": []
+    },
+    {
+      "id": "in-credit-agricole-cib",
+      "name": "Crédit Agricole CIB",
+      "aliases": [
+        "Crédit Agricole Corporate and Investment Bank"
+      ]
+    },
+    {
+      "id": "in-csb-bank",
+      "name": "CSB Bank",
+      "aliases": []
+    },
+    {
+      "id": "in-dbs-bank",
+      "name": "DBS Bank",
+      "aliases": []
+    },
+    {
+      "id": "in-dcb-bank",
+      "name": "DCB Bank",
+      "aliases": []
+    },
+    {
+      "id": "in-deutsche-bank",
+      "name": "Deutsche Bank",
+      "aliases": []
+    },
+    {
+      "id": "in-dhanlaxmi-bank",
+      "name": "Dhanlaxmi Bank",
+      "aliases": []
+    },
+    {
+      "id": "in-doha-bank",
+      "name": "Doha Bank",
+      "aliases": []
+    },
+    {
+      "id": "in-emirates-nbd",
+      "name": "Emirates NBD",
+      "aliases": []
+    },
+    {
+      "id": "in-esaf-small-finance-bank-ltd",
+      "name": "ESAF Small Finance Bank Ltd",
+      "aliases": []
+    },
+    {
+      "id": "in-fino-payments-bank",
+      "name": "FINO Payments Bank",
+      "aliases": []
+    },
+    {
+      "id": "in-first-abu-dhabi-bank",
+      "name": "First Abu Dhabi Bank",
+      "aliases": []
+    },
+    {
+      "id": "in-firstrand-bank",
+      "name": "FirstRand Bank",
+      "aliases": []
+    },
+    {
+      "id": "in-hdfc-bank",
+      "name": "HDFC Bank",
+      "aliases": []
+    },
+    {
+      "id": "in-hsbc-bank",
+      "name": "HSBC Bank",
+      "aliases": []
+    },
+    {
+      "id": "in-icici-bank",
+      "name": "ICICI Bank",
+      "aliases": []
+    },
+    {
+      "id": "in-idbi-bank",
+      "name": "IDBI Bank",
+      "aliases": []
+    },
+    {
+      "id": "in-idfc-first-bank",
+      "name": "IDFC FIRST Bank",
+      "aliases": [
+        "IDFC Bank"
+      ]
+    },
+    {
+      "id": "in-india-post-payments-bank",
+      "name": "India Post Payments Bank",
+      "aliases": []
+    },
+    {
+      "id": "in-indian-bank",
+      "name": "Indian Bank",
+      "aliases": []
+    },
+    {
+      "id": "in-indian-overseas-bank",
+      "name": "Indian Overseas Bank",
+      "aliases": []
+    },
+    {
+      "id": "in-indusind-bank",
+      "name": "IndusInd Bank",
+      "aliases": [
+        "Induslnd Bank"
+      ]
+    },
+    {
+      "id": "in-industrial-commercial-bank-of-china",
+      "name": "Industrial & Commercial Bank of China",
+      "aliases": []
+    },
+    {
+      "id": "in-industrial-bank-of-korea",
+      "name": "Industrial Bank of Korea",
+      "aliases": []
+    },
+    {
+      "id": "in-jammu-kashmir-bank",
+      "name": "Jammu & Kashmir Bank",
+      "aliases": []
+    },
+    {
+      "id": "in-jio-payments-bank",
+      "name": "Jio Payments Bank",
+      "aliases": []
+    },
+    {
+      "id": "in-j-p-morgan-chase-bank",
+      "name": "J.P. Morgan Chase Bank",
+      "aliases": [
+        "JPMorgan Chase"
+      ]
+    },
+    {
+      "id": "in-karnataka-bank",
+      "name": "Karnataka Bank",
+      "aliases": []
+    },
+    {
+      "id": "in-keb-hana-bank",
+      "name": "KEB Hana Bank",
+      "aliases": []
+    },
+    {
+      "id": "in-kookmin-bank",
+      "name": "Kookmin Bank",
+      "aliases": []
+    },
+    {
+      "id": "in-kotak-mahindra-bank",
+      "name": "Kotak Mahindra Bank",
+      "aliases": []
+    },
+    {
+      "id": "in-mizuho-bank",
+      "name": "Mizuho Bank",
+      "aliases": [
+        "Mizuho Corporate Bank"
+      ]
+    },
+    {
+      "id": "in-mufg-bank",
+      "name": "MUFG Bank",
+      "aliases": []
+    },
+    {
+      "id": "in-natwest-bank",
+      "name": "NatWest Bank",
+      "aliases": []
+    },
+    {
+      "id": "in-punjab-sind-bank",
+      "name": "Punjab & Sind Bank",
+      "aliases": []
+    },
+    {
+      "id": "in-punjab-national-bank",
+      "name": "Punjab National Bank",
+      "aliases": []
+    },
+    {
+      "id": "in-qatar-national-bank",
+      "name": "Qatar National Bank",
+      "aliases": []
+    },
+    {
+      "id": "in-rbl-bank",
+      "name": "RBL Bank",
+      "aliases": []
+    },
+    {
+      "id": "in-sberbank",
+      "name": "Sberbank",
+      "aliases": []
+    },
+    {
+      "id": "in-scotiabank",
+      "name": "Scotiabank",
+      "aliases": [
+        "Scotia Bank",
+        "Bank of Nova Scotia"
+      ]
+    },
+    {
+      "id": "in-shinhan-bank",
+      "name": "Shinhan Bank",
+      "aliases": []
+    },
+    {
+      "id": "in-societe-generale",
+      "name": "Société Générale",
+      "aliases": []
+    },
+    {
+      "id": "in-south-indian-bank",
+      "name": "South Indian Bank",
+      "aliases": []
+    },
+    {
+      "id": "in-standard-chartered-bank",
+      "name": "Standard Chartered Bank",
+      "aliases": []
+    },
+    {
+      "id": "in-state-bank-of-india",
+      "name": "State Bank of India",
+      "aliases": []
+    },
+    {
+      "id": "in-sumitomo-mitsui-banking-corporation",
+      "name": "Sumitomo Mitsui Banking Corporation",
+      "aliases": []
+    },
+    {
+      "id": "in-tamilnad-mercantile-bank",
+      "name": "Tamilnad Mercantile Bank",
+      "aliases": []
+    },
+    {
+      "id": "in-uco-bank",
+      "name": "UCO Bank",
+      "aliases": []
+    },
+    {
+      "id": "in-ujjivan-small-finance-bank",
+      "name": "Ujjivan Small Finance Bank",
+      "aliases": []
+    },
+    {
+      "id": "in-union-bank-of-india",
+      "name": "Union Bank of India",
+      "aliases": [
+        "Union Bank"
+      ]
+    },
+    {
+      "id": "in-united-overseas-bank",
+      "name": "United Overseas Bank",
+      "aliases": []
+    },
+    {
+      "id": "in-woori-bank",
+      "name": "Woori Bank",
+      "aliases": []
+    }
+  ]
+}

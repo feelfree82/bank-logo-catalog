@@ -1,0 +1,19 @@
+{
+  "id": "us-bank-of-america",
+  "country": "US",
+  "name": "Bank of America",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "c0ddc1b4e45f7d75",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-bank-of-america/icon.svg?v=2d4eb3b96efd3f9a",
+      "png": "v1/assets/us/us-bank-of-america/icon.png?v=ef6ab5c205cddcd4",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

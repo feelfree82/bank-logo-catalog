@@ -1,0 +1,19 @@
+{
+  "id": "us-honor-credit-union",
+  "country": "US",
+  "name": "Honor Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "c7b99c425c6ea5b5",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-honor-credit-union/icon.svg?v=21a71b6de1a96c92",
+      "png": "v1/assets/us/us-honor-credit-union/icon.png?v=4f997ec2afbc82d2",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

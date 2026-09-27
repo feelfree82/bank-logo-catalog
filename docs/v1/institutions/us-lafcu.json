@@ -1,0 +1,19 @@
+{
+  "id": "us-lafcu",
+  "country": "US",
+  "name": "LAFCU",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "e1f96fbb6aa94f1e",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-lafcu/icon.svg?v=bfb64161c19b9458",
+      "png": "v1/assets/us/us-lafcu/icon.png?v=ef8c9208ceb0e31c",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

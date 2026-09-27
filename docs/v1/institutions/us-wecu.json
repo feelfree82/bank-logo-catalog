@@ -1,0 +1,19 @@
+{
+  "id": "us-wecu",
+  "country": "US",
+  "name": "WECU",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "e6b3e9f8235d8794",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-wecu/icon.svg?v=0535a02dfde2aefd",
+      "png": "v1/assets/us/us-wecu/icon.png?v=ace237f026448f86",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

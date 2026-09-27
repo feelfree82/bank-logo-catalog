@@ -1,0 +1,22 @@
+{
+  "id": "in-dbs-bank",
+  "country": "IN",
+  "name": "DBS Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "4e5ff6b06e698834",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-dbs-bank/icon.svg?v=58206394f27b6b41",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-dbs-bank/wordmark.svg?v=40bd3b88cd0f809c",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

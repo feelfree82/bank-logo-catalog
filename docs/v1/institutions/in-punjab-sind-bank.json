@@ -1,0 +1,22 @@
+{
+  "id": "in-punjab-sind-bank",
+  "country": "IN",
+  "name": "Punjab & Sind Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "7a4c763b2d40d487",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-punjab-sind-bank/icon.svg?v=01570ccd983f27ef",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-punjab-sind-bank/wordmark.svg?v=4aad77ec267c44fa",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

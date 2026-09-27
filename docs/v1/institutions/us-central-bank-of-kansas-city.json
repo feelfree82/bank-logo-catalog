@@ -1,0 +1,19 @@
+{
+  "id": "us-central-bank-of-kansas-city",
+  "country": "US",
+  "name": "Central Bank of Kansas City",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "2eca7237f73bd90e",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-central-bank-of-kansas-city/icon.svg?v=e535682a9614ba85",
+      "png": "v1/assets/us/us-central-bank-of-kansas-city/icon.png?v=04398573193fbc7a",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

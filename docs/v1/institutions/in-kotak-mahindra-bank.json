@@ -1,0 +1,22 @@
+{
+  "id": "in-kotak-mahindra-bank",
+  "country": "IN",
+  "name": "Kotak Mahindra Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "16312da7170687a0",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-kotak-mahindra-bank/icon.svg?v=4fb75b56bd4196cf",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-kotak-mahindra-bank/wordmark.svg?v=c402e985d8a45c99",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

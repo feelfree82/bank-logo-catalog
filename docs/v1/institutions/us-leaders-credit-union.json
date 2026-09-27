@@ -1,0 +1,19 @@
+{
+  "id": "us-leaders-credit-union",
+  "country": "US",
+  "name": "Leaders Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "ea97fef9cbe734f9",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-leaders-credit-union/icon.svg?v=eb8eb9d67e58631b",
+      "png": "v1/assets/us/us-leaders-credit-union/icon.png?v=81414b09d78e6b27",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

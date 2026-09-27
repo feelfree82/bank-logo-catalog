@@ -1,0 +1,19 @@
+{
+  "id": "us-first-financial-bank-personal",
+  "country": "US",
+  "name": "First Financial Bank - Personal",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "c7c4c7f0700e52b6",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-first-financial-bank-personal/icon.svg?v=9cfaf68cc5ee18a9",
+      "png": "v1/assets/us/us-first-financial-bank-personal/icon.png?v=c6c00dbafb857f7c",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

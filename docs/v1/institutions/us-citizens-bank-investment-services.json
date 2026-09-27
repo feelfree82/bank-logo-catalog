@@ -1,0 +1,19 @@
+{
+  "id": "us-citizens-bank-investment-services",
+  "country": "US",
+  "name": "Citizens Bank - Investment Services",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "710aeca8c37c78e0",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-citizens-bank-investment-services/icon.svg?v=9b48ffd0dc37a54f",
+      "png": "v1/assets/us/us-citizens-bank-investment-services/icon.png?v=1bf10100917fa79c",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

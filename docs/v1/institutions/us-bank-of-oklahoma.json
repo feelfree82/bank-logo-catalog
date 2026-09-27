@@ -1,0 +1,19 @@
+{
+  "id": "us-bank-of-oklahoma",
+  "country": "US",
+  "name": "Bank of Oklahoma",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "8edd3429900fddef",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-bank-of-oklahoma/icon.svg?v=eee797c287141f5f",
+      "png": "v1/assets/us/us-bank-of-oklahoma/icon.png?v=bbcc93b91b6718ce",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

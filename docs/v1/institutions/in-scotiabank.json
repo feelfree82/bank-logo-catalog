@@ -1,0 +1,25 @@
+{
+  "id": "in-scotiabank",
+  "country": "IN",
+  "name": "Scotiabank",
+  "official_name": null,
+  "aliases": [
+    "Scotia Bank",
+    "Bank of Nova Scotia"
+  ],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "6686a780f0f9e246",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-scotiabank/icon.svg?v=9cde1f2cbd2bbada",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-scotiabank/wordmark.svg?v=91ec614414a96167",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

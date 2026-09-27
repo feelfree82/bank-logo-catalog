@@ -1,0 +1,19 @@
+{
+  "id": "us-navy-federal-credit-union",
+  "country": "US",
+  "name": "Navy Federal Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "382872e8e5773ada",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-navy-federal-credit-union/icon.svg?v=8f15f7f90e7003dd",
+      "png": "v1/assets/us/us-navy-federal-credit-union/icon.png?v=892c0def625b1974",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

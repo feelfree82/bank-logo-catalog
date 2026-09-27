@@ -1,0 +1,19 @@
+{
+  "id": "us-vantage-west-credit-union",
+  "country": "US",
+  "name": "Vantage West Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "e13685528f067451",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-vantage-west-credit-union/icon.svg?v=a8460cdc81ea93f0",
+      "png": "v1/assets/us/us-vantage-west-credit-union/icon.png?v=2ce71dafee48f996",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "us-republic-bank",
+  "country": "US",
+  "name": "Republic Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "ccc3c312eca3ead9",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-republic-bank/icon.svg?v=1884f1226ece6a99",
+      "png": "v1/assets/us/us-republic-bank/icon.png?v=3d81375f0fe96034",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

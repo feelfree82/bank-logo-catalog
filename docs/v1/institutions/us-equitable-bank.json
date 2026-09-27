@@ -1,0 +1,19 @@
+{
+  "id": "us-equitable-bank",
+  "country": "US",
+  "name": "Equitable Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "c62421a90b5aad3f",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-equitable-bank/icon.svg?v=491f49ea408bdbb1",
+      "png": "v1/assets/us/us-equitable-bank/icon.png?v=78147e537efbdd34",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

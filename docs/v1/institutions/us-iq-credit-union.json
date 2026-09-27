@@ -1,0 +1,19 @@
+{
+  "id": "us-iq-credit-union",
+  "country": "US",
+  "name": "iQ Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "1478c9a0a2e4b800",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-iq-credit-union/icon.svg?v=7c3a3a70a0fba6f3",
+      "png": "v1/assets/us/us-iq-credit-union/icon.png?v=c8e67eb5b02894ab",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

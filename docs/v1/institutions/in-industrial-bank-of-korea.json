@@ -1,0 +1,22 @@
+{
+  "id": "in-industrial-bank-of-korea",
+  "country": "IN",
+  "name": "Industrial Bank of Korea",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "6d2041c6abeb9fba",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-industrial-bank-of-korea/icon.svg?v=a0ac83af2b60ad04",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-industrial-bank-of-korea/wordmark.svg?v=8ca8f0a18a88a6d9",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

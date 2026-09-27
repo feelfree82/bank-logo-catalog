@@ -1,0 +1,19 @@
+{
+  "id": "us-wellby-financial",
+  "country": "US",
+  "name": "Wellby Financial",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "6b25ee2bb6896f2f",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-wellby-financial/icon.svg?v=f36a23d9ed49bdd7",
+      "png": "v1/assets/us/us-wellby-financial/icon.png?v=5f898467b8abe31f",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

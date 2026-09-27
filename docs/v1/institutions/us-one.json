@@ -1,0 +1,19 @@
+{
+  "id": "us-one",
+  "country": "US",
+  "name": "ONE",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "8273e344361e54e5",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-one/icon.svg?v=0bb02312aca23bc2",
+      "png": "v1/assets/us/us-one/icon.png?v=13d9d752d1cdf855",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

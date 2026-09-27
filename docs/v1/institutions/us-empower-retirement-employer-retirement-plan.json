@@ -1,0 +1,19 @@
+{
+  "id": "us-empower-retirement-employer-retirement-plan",
+  "country": "US",
+  "name": "Empower Retirement - Employer Retirement Plan",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "e77078c5b8260a3f",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-empower-retirement-employer-retirement-plan/icon.svg?v=2ebb299d0623cd90",
+      "png": "v1/assets/us/us-empower-retirement-employer-retirement-plan/icon.png?v=e931cb163ba8a0ed",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "us-clair",
+  "country": "US",
+  "name": "Clair",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "0a64052f072e82f7",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-clair/icon.svg?v=3c41430fbbe0f486",
+      "png": "v1/assets/us/us-clair/icon.png?v=67a8ecee9d65cd86",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

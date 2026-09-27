@@ -1,0 +1,22 @@
+{
+  "id": "in-bank-of-india",
+  "country": "IN",
+  "name": "Bank of India",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "b8a847894cdcbe7c",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-bank-of-india/icon.svg?v=4e787090b962a352",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-bank-of-india/wordmark.svg?v=d7d20965cc025c13",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

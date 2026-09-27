@@ -1,0 +1,19 @@
+{
+  "id": "us-customers-bank",
+  "country": "US",
+  "name": "Customers Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "03cc90bb1d4c1e16",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-customers-bank/icon.svg?v=9b06548599e9e149",
+      "png": "v1/assets/us/us-customers-bank/icon.png?v=0c2d4ad7e8536bbd",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

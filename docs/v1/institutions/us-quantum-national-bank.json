@@ -1,0 +1,19 @@
+{
+  "id": "us-quantum-national-bank",
+  "country": "US",
+  "name": "Quantum National Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "b1c6c9cde1ee5d35",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-quantum-national-bank/icon.svg?v=0702553dfe42aab9",
+      "png": "v1/assets/us/us-quantum-national-bank/icon.png?v=f1f7e75765378ff1",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "us-kemba-financial-credit-union",
+  "country": "US",
+  "name": "Kemba Financial Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "48ae177438462e88",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-kemba-financial-credit-union/icon.svg?v=28420cefc288a862",
+      "png": "v1/assets/us/us-kemba-financial-credit-union/icon.png?v=31165514a85ee08d",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

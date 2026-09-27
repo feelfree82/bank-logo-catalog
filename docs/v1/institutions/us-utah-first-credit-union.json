@@ -1,0 +1,19 @@
+{
+  "id": "us-utah-first-credit-union",
+  "country": "US",
+  "name": "Utah First Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "07d90eac122aecf1",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-utah-first-credit-union/icon.svg?v=48488d53b10a76dd",
+      "png": "v1/assets/us/us-utah-first-credit-union/icon.png?v=f537a0999fac6924",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

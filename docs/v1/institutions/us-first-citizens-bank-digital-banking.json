@@ -1,0 +1,19 @@
+{
+  "id": "us-first-citizens-bank-digital-banking",
+  "country": "US",
+  "name": "First Citizens Bank - Digital Banking",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "8051c978e57282aa",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-first-citizens-bank-digital-banking/icon.svg?v=fc7fe598baafe3a5",
+      "png": "v1/assets/us/us-first-citizens-bank-digital-banking/icon.png?v=0af238688e8c9bee",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

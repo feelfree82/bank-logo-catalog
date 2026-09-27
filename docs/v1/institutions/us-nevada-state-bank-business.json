@@ -1,0 +1,19 @@
+{
+  "id": "us-nevada-state-bank-business",
+  "country": "US",
+  "name": "Nevada State Bank - Business",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "064fa0652a1fe953",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-nevada-state-bank-business/icon.svg?v=ec786beaf6350c2a",
+      "png": "v1/assets/us/us-nevada-state-bank-business/icon.png?v=160ebec83977c0f0",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

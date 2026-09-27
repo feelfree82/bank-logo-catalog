@@ -1,0 +1,22 @@
+{
+  "id": "in-canara-bank",
+  "country": "IN",
+  "name": "Canara Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "bd81e443a0936fe7",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-canara-bank/icon.svg?v=b4785af42e307bbf",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-canara-bank/wordmark.svg?v=7e99c83f01bbd7ad",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

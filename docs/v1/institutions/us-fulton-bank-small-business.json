@@ -1,0 +1,19 @@
+{
+  "id": "us-fulton-bank-small-business",
+  "country": "US",
+  "name": "Fulton Bank - Small Business",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "c1b92ed6a380fa8a",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-fulton-bank-small-business/icon.svg?v=af26bb06b07e9183",
+      "png": "v1/assets/us/us-fulton-bank-small-business/icon.png?v=6de0b986c43d20d7",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

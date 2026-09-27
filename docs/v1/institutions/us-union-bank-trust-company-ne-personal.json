@@ -1,0 +1,19 @@
+{
+  "id": "us-union-bank-trust-company-ne-personal",
+  "country": "US",
+  "name": "Union Bank & Trust Company (NE) - Personal",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "bad3c65f222b793b",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-union-bank-trust-company-ne-personal/icon.svg?v=e718d283285f188e",
+      "png": "v1/assets/us/us-union-bank-trust-company-ne-personal/icon.png?v=60a4ba7f9e7370f1",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

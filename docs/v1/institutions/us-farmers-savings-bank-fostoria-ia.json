@@ -1,0 +1,19 @@
+{
+  "id": "us-farmers-savings-bank-fostoria-ia",
+  "country": "US",
+  "name": "Farmers Savings Bank (Fostoria, IA)",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "8d3dc20796646f75",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-farmers-savings-bank-fostoria-ia/icon.svg?v=9c5d5ed7a3ae99fa",
+      "png": "v1/assets/us/us-farmers-savings-bank-fostoria-ia/icon.png?v=7b857ea94ae83800",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

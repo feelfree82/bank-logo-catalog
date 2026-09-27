@@ -1,0 +1,19 @@
+{
+  "id": "us-synovus-gateway",
+  "country": "US",
+  "name": "Synovus - Gateway",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "443c313cd6d716bb",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-synovus-gateway/icon.svg?v=e6e6d00e62777af1",
+      "png": "v1/assets/us/us-synovus-gateway/icon.png?v=e1691e5dde4459af",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

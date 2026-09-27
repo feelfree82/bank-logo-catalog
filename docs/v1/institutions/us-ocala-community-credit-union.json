@@ -1,0 +1,19 @@
+{
+  "id": "us-ocala-community-credit-union",
+  "country": "US",
+  "name": "Ocala Community Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "6a7bec4b77e9e83f",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-ocala-community-credit-union/icon.svg?v=d2a10284d64423d3",
+      "png": "v1/assets/us/us-ocala-community-credit-union/icon.png?v=e924861a8186c563",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

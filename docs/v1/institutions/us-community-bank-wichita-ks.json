@@ -1,0 +1,19 @@
+{
+  "id": "us-community-bank-wichita-ks",
+  "country": "US",
+  "name": "Community Bank (Wichita, KS)",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "71cde181238d4a12",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-community-bank-wichita-ks/icon.svg?v=950eac4eeec6acfa",
+      "png": "v1/assets/us/us-community-bank-wichita-ks/icon.png?v=e7f5ae40a6d7a677",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

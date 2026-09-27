@@ -1,0 +1,25 @@
+{
+  "id": "in-citibank",
+  "country": "IN",
+  "name": "Citibank",
+  "official_name": null,
+  "aliases": [
+    "Citi Bank",
+    "Citibank N.A."
+  ],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "de0cbeb1d798c03a",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-citibank/icon.svg?v=f29e7a708c3a071a",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-citibank/wordmark.svg?v=f9c9202ffa9700a6",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

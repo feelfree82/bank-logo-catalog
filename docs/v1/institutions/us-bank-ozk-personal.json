@@ -1,0 +1,19 @@
+{
+  "id": "us-bank-ozk-personal",
+  "country": "US",
+  "name": "Bank OZK - Personal",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "5a9f0c247a340d5e",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-bank-ozk-personal/icon.svg?v=cd6296ddb77a821a",
+      "png": "v1/assets/us/us-bank-ozk-personal/icon.png?v=f2e063509f5dbd30",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

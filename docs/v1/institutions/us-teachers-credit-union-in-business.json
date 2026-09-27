@@ -1,0 +1,19 @@
+{
+  "id": "us-teachers-credit-union-in-business",
+  "country": "US",
+  "name": "Teachers Credit Union (IN) - Business",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "44d63b8907577032",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-teachers-credit-union-in-business/icon.svg?v=b33bc60f2ca81dc1",
+      "png": "v1/assets/us/us-teachers-credit-union-in-business/icon.png?v=28f96e850bb9ab47",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

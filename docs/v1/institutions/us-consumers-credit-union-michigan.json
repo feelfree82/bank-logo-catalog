@@ -1,0 +1,19 @@
+{
+  "id": "us-consumers-credit-union-michigan",
+  "country": "US",
+  "name": "Consumers Credit Union (Michigan)",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "ce7d465b33f017db",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-consumers-credit-union-michigan/icon.svg?v=84f08ac896d948e9",
+      "png": "v1/assets/us/us-consumers-credit-union-michigan/icon.png?v=e30a39bfc979a3a3",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

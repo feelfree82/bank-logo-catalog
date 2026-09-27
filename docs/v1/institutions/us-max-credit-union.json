@@ -1,0 +1,19 @@
+{
+  "id": "us-max-credit-union",
+  "country": "US",
+  "name": "MAX Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "cfb38506adc835b4",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-max-credit-union/icon.svg?v=64e4cb5bee201dac",
+      "png": "v1/assets/us/us-max-credit-union/icon.png?v=9e32a6d8533ffd5c",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

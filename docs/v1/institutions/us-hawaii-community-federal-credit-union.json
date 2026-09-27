@@ -1,0 +1,19 @@
+{
+  "id": "us-hawaii-community-federal-credit-union",
+  "country": "US",
+  "name": "Hawaii Community Federal Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "4c91d444fe806ec0",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-hawaii-community-federal-credit-union/icon.svg?v=0d7bf8246a73ce1f",
+      "png": "v1/assets/us/us-hawaii-community-federal-credit-union/icon.png?v=0a6d6a6d25e628be",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

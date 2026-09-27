@@ -1,0 +1,19 @@
+{
+  "id": "us-america-s-first-federal-cu",
+  "country": "US",
+  "name": "America's First Federal CU",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "2061de1839c37379",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-america-s-first-federal-cu/icon.svg?v=07fe3b3b22e0a20f",
+      "png": "v1/assets/us/us-america-s-first-federal-cu/icon.png?v=1f6c07c4fc3f00c5",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

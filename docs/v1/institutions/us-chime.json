@@ -1,0 +1,19 @@
+{
+  "id": "us-chime",
+  "country": "US",
+  "name": "Chime",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "aed1f239aec78d97",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-chime/icon.svg?v=e4002ddf931ef989",
+      "png": "v1/assets/us/us-chime/icon.png?v=f2dd2b30cf8dbaa2",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

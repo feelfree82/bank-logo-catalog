@@ -1,0 +1,19 @@
+{
+  "id": "us-atlantic-union-bank-personal-online-banking",
+  "country": "US",
+  "name": "Atlantic Union Bank - Personal Online Banking",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "8796c8e38b9d69bf",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-atlantic-union-bank-personal-online-banking/icon.svg?v=42a9342dd1a62991",
+      "png": "v1/assets/us/us-atlantic-union-bank-personal-online-banking/icon.png?v=4106ed22590af169",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

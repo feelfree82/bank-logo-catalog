@@ -1,0 +1,19 @@
+{
+  "id": "us-levro",
+  "country": "US",
+  "name": "Levro",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "5fce88937bf64822",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-levro/icon.svg?v=a09f5aefc6bcdc04",
+      "png": "v1/assets/us/us-levro/icon.png?v=38d798500eb17da2",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

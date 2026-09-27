@@ -1,0 +1,19 @@
+{
+  "id": "us-lincoln-savings-bank-ia-online-banking",
+  "country": "US",
+  "name": "Lincoln Savings Bank (IA) - Online Banking",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "d0fcbf9b4b9efa26",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-lincoln-savings-bank-ia-online-banking/icon.svg?v=7ec6142b162ee531",
+      "png": "v1/assets/us/us-lincoln-savings-bank-ia-online-banking/icon.png?v=0c55735a75241f10",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

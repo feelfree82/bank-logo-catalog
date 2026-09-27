@@ -1,0 +1,467 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A country-aware bank logo catalog for product teams and developers.">
+  <title>Bank Logo Catalog</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --ink: #151515;
+      --muted: #6b6b6b;
+      --faint: #8b8b8b;
+      --line: #dededb;
+      --paper: #f8f8f5;
+      --white: #fff;
+      --blue: #3157e6;
+      --blue-soft: #eef1ff;
+      --warning: #8a5b12;
+      --warning-bg: #fff8e8;
+    }
+
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      background: var(--paper);
+      color: var(--ink);
+      font: 15px/1.45 -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", sans-serif;
+      -webkit-font-smoothing: antialiased;
+    }
+    button, input, select { font: inherit; }
+    button { color: inherit; }
+    a { color: inherit; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+    code, pre, .mono { font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace; }
+
+    .page { width: min(1240px, calc(100% - 48px)); margin: 0 auto; }
+    .topbar {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      align-items: center;
+      min-height: 66px;
+      border-bottom: 1px solid var(--line);
+    }
+    .identity { font-size: 16px; font-weight: 700; letter-spacing: -.02em; }
+    .nav { display: flex; gap: 24px; color: var(--muted); font-size: 13px; }
+    .nav a { text-decoration: none; }
+    .nav a:hover { color: var(--ink); }
+
+    .intro {
+      display: grid;
+      grid-template-columns: minmax(0, 1.25fr) minmax(260px, .75fr);
+      gap: 64px;
+      padding: 68px 0 48px;
+      border-bottom: 1px solid var(--line);
+    }
+    .eyebrow { margin: 0 0 15px; color: var(--blue); font-size: 12px; font-weight: 700; letter-spacing: .11em; text-transform: uppercase; }
+    h1 { margin: 0; max-width: 750px; font-size: clamp(39px, 5.2vw, 65px); line-height: 1.01; letter-spacing: -.055em; font-weight: 650; }
+    .intro-note { align-self: end; padding-bottom: 5px; }
+    .intro-note p { margin: 0 0 22px; color: var(--muted); font-size: 17px; }
+    .facts { display: grid; grid-template-columns: repeat(3, auto); justify-content: start; gap: 26px; margin: 0; }
+    .facts div { min-width: 70px; }
+    .facts dt { color: var(--faint); font-size: 11px; text-transform: uppercase; letter-spacing: .08em; }
+    .facts dd { margin: 4px 0 0; font-size: 17px; font-weight: 700; }
+    .coverage-note { margin: 18px 0 0 !important; color: var(--muted); font-size: 12px !important; }
+
+    .section { padding: 48px 0 72px; border-bottom: 1px solid var(--line); }
+    .section-heading { display: flex; align-items: baseline; justify-content: space-between; gap: 24px; margin-bottom: 18px; }
+    h2 { margin: 0; font-size: 22px; letter-spacing: -.025em; }
+    .section-heading p { margin: 0; color: var(--muted); font-size: 13px; }
+
+    .explorer {
+      display: grid;
+      grid-template-columns: 330px minmax(0, 1fr);
+      min-height: 530px;
+      border: 1px solid var(--line);
+      background: var(--white);
+    }
+    .search-column { border-right: 1px solid var(--line); }
+    .controls { display: grid; grid-template-columns: 116px minmax(0, 1fr); gap: 8px; padding: 16px; border-bottom: 1px solid var(--line); }
+    select, input {
+      width: 100%;
+      min-height: 42px;
+      border: 1px solid #cfcfcb;
+      border-radius: 4px;
+      background: white;
+      outline: none;
+    }
+    select {
+      appearance: none;
+      padding: 0 38px 0 11px;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'%3E%3Cpath d='m1 1 4 4 4-4' fill='none' stroke='%23676763' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+      background-repeat: no-repeat;
+      background-position: right 17px center;
+    }
+    input { padding: 0 11px; }
+    select:focus, input:focus { border-color: var(--blue); box-shadow: 0 0 0 2px rgba(49, 87, 230, .12); }
+    .search-status { min-height: 44px; margin: 0; padding: 13px 16px 10px; color: var(--muted); font-size: 12px; }
+    .result-list { border-top: 1px solid var(--line); }
+    .result-button {
+      display: block;
+      width: 100%;
+      padding: 15px 16px;
+      border: 0;
+      border-bottom: 1px solid var(--line);
+      background: transparent;
+      text-align: left;
+      cursor: pointer;
+    }
+    .result-button:hover { background: #fafaf8; }
+    .result-button[aria-current="true"] { background: var(--blue-soft); box-shadow: inset 3px 0 var(--blue); }
+    .result-title { display: block; margin-bottom: 3px; font-weight: 700; }
+    .result-id { display: block; color: var(--muted); font-size: 11px; }
+    .empty { padding: 18px 16px; color: var(--muted); }
+
+    .detail { display: grid; grid-template-rows: auto 1fr auto; min-width: 0; }
+    .detail-head { display: flex; justify-content: space-between; gap: 24px; padding: 24px 28px; border-bottom: 1px solid var(--line); }
+    .detail-head h3 { margin: 0 0 5px; font-size: 26px; letter-spacing: -.035em; }
+    .detail-head p { margin: 0; color: var(--muted); font-size: 12px; }
+    .review-label { align-self: start; color: var(--warning); font-size: 11px; }
+    .artwork { display: grid; grid-template-columns: 160px minmax(0, 1fr); gap: 16px; padding: 28px; }
+    .variant { min-width: 0; }
+    .variant-label { display: flex; justify-content: space-between; gap: 8px; margin-bottom: 8px; color: var(--faint); font-size: 10px; letter-spacing: .08em; text-transform: uppercase; }
+    .artboard { display: grid; place-items: center; min-height: 190px; border: 1px solid var(--line); background: #fafafa; }
+    .artboard.checker {
+      background-color: #fff;
+      background-image: linear-gradient(45deg, #f2f2f0 25%, transparent 25%), linear-gradient(-45deg, #f2f2f0 25%, transparent 25%), linear-gradient(45deg, transparent 75%, #f2f2f0 75%), linear-gradient(-45deg, transparent 75%, #f2f2f0 75%);
+      background-size: 20px 20px;
+      background-position: 0 0, 0 10px, 10px -10px, -10px 0;
+    }
+    .artboard img { display: block; max-width: calc(100% - 36px); max-height: 128px; object-fit: contain; }
+    .artboard.icon img { width: 94px; height: 94px; }
+    .unavailable { color: var(--faint); font-size: 12px; }
+    .record { display: grid; grid-template-columns: repeat(3, 1fr); border-top: 1px solid var(--line); }
+    .record div { min-width: 0; padding: 16px 20px; border-right: 1px solid var(--line); }
+    .record div:last-child { border-right: 0; }
+    .record dt { margin-bottom: 5px; color: var(--faint); font-size: 10px; letter-spacing: .08em; text-transform: uppercase; }
+    .record dd { margin: 0; overflow-wrap: anywhere; font-size: 12px; }
+
+    .use-grid { display: grid; grid-template-columns: .8fr 1.2fr; gap: 72px; }
+    .steps { margin: 0; padding: 0; list-style: none; counter-reset: item; }
+    .steps li { display: grid; grid-template-columns: 34px 1fr; gap: 14px; padding: 18px 0; border-top: 1px solid var(--line); counter-increment: item; }
+    .steps li::before { content: counter(item, decimal-leading-zero); color: var(--blue); font: 12px/1.5 "SFMono-Regular", Consolas, monospace; }
+    .steps strong { display: block; margin-bottom: 4px; }
+    .steps p { margin: 0; color: var(--muted); }
+    .code-panel { align-self: start; border: 1px solid var(--line); background: white; }
+    .code-head { display: flex; justify-content: space-between; align-items: center; min-height: 43px; padding: 0 13px; border-bottom: 1px solid var(--line); color: var(--muted); font-size: 11px; }
+    .copy { border: 0; background: transparent; color: var(--blue); cursor: pointer; }
+    pre { margin: 0; padding: 20px; overflow: auto; font-size: 12px; line-height: 1.7; white-space: pre; }
+    .endpoints { display: grid; grid-template-columns: 1fr 1fr; margin-top: 24px; border: 1px solid var(--line); background: white; }
+    .endpoint { padding: 18px; border-right: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+    .endpoint:nth-child(2n) { border-right: 0; }
+    .endpoint:nth-last-child(-n+2) { border-bottom: 0; }
+    .endpoint code { display: block; margin-bottom: 8px; color: var(--blue); font-size: 11px; overflow-wrap: anywhere; }
+    .endpoint p { margin: 0; color: var(--muted); font-size: 12px; }
+
+    .release-note { display: grid; grid-template-columns: 160px 1fr; gap: 26px; padding: 20px 0 0; color: var(--warning); font-size: 12px; }
+    .release-note strong { text-transform: uppercase; letter-spacing: .08em; font-size: 10px; }
+    footer { display: grid; grid-template-columns: minmax(210px, .7fr) minmax(0, 1.3fr); gap: 48px; padding: 32px 0 48px; color: var(--muted); font-size: 12px; }
+    .footer-credit strong { display: block; margin-bottom: 5px; color: var(--ink); font-size: 13px; }
+    .footer-credit span, .footer-legal p { display: block; margin: 0; }
+    .footer-legal p + p { margin-top: 8px; }
+
+    @media (max-width: 860px) {
+      .page { width: min(100% - 28px, 1240px); }
+      .topbar { grid-template-columns: 1fr auto; }
+      .nav { display: none; }
+      .intro, .use-grid { grid-template-columns: 1fr; gap: 32px; }
+      .explorer { grid-template-columns: 1fr; }
+      .search-column { border-right: 0; border-bottom: 1px solid var(--line); }
+      .result-list { max-height: 250px; overflow: auto; }
+    }
+    @media (max-width: 580px) {
+      .intro { padding-top: 46px; }
+      .facts { gap: 16px; }
+      .section-heading { display: block; }
+      .section-heading p { margin-top: 7px; }
+      .artwork { grid-template-columns: 1fr; padding: 18px; }
+      .record { grid-template-columns: 1fr; }
+      .record div { border-right: 0; border-bottom: 1px solid var(--line); }
+      .record div:last-child { border-bottom: 0; }
+      .endpoints { grid-template-columns: 1fr; }
+      .endpoint, .endpoint:nth-child(2n), .endpoint:nth-last-child(-n+2) { border-right: 0; border-bottom: 1px solid var(--line); }
+      .endpoint:last-child { border-bottom: 0; }
+      .release-note { grid-template-columns: 1fr; gap: 8px; }
+      footer { grid-template-columns: 1fr; gap: 20px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <header class="topbar">
+      <div class="identity">Bank Logo Catalog</div>
+      <nav class="nav" aria-label="Page navigation">
+        <a href="#explorer">Explorer</a>
+        <a href="#quick-start">Quick start</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="intro">
+        <div>
+          <p class="eyebrow">A growing home for bank logos</p>
+          <h1>One API for bank logos worldwide.</h1>
+        </div>
+        <div class="intro-note">
+          <p>Search by country and bank name. Add the right logo without packing hundreds of images into your app.</p>
+          <dl class="facts">
+            <div><dt>Records</dt><dd>765</dd></div>
+            <div><dt>Countries</dt><dd>2</dd></div>
+            <div><dt>Access</dt><dd>No signup</dd></div>
+          </dl>
+          <p class="coverage-note">India and the USA are live. Japan and Canada are next.</p>
+        </div>
+      </section>
+
+      <section class="section" id="explorer">
+        <div class="section-heading">
+          <h2>Explorer</h2>
+          <p>Search names and aliases. The artwork loads after a record is selected.</p>
+        </div>
+
+        <div class="explorer">
+          <aside class="search-column">
+            <div class="controls">
+              <select id="country" aria-label="Country">
+                <option value="IN" selected>🇮🇳 India</option>
+                <option value="US">🇺🇸 USA</option>
+                <option value="JP" disabled>🇯🇵 Japan (coming soon)</option>
+                <option value="CA" disabled>🇨🇦 Canada (coming soon)</option>
+              </select>
+              <input id="query" type="search" value="HDFC" placeholder="Search bank name" autocomplete="off" aria-label="Bank name">
+            </div>
+            <p class="search-status" id="status">Loading names…</p>
+            <div class="result-list" id="results" aria-live="polite"></div>
+          </aside>
+
+          <article class="detail" id="detail" aria-live="polite">
+            <div class="detail-head">
+              <div><h3 id="detail-name">Select a bank</h3><p class="mono" id="detail-id">Not selected</p></div>
+              <span class="review-label" id="review-label">Catalog beta</span>
+            </div>
+            <div class="artwork">
+              <div class="variant">
+                <div class="variant-label"><span>Icon</span><span id="icon-type"></span></div>
+                <div class="artboard checker icon" id="icon-board"><span class="unavailable">No record selected</span></div>
+              </div>
+              <div class="variant">
+                <div class="variant-label"><span>Wordmark</span><span id="wordmark-type"></span></div>
+                <div class="artboard checker" id="wordmark-board"><span class="unavailable">No record selected</span></div>
+              </div>
+            </div>
+            <dl class="record">
+              <div><dt>Country</dt><dd id="record-country">Not selected</dd></div>
+              <div><dt>Status</dt><dd id="record-status">Not selected</dd></div>
+              <div><dt>Revision</dt><dd class="mono" id="record-revision">Not selected</dd></div>
+            </dl>
+          </article>
+        </div>
+
+        <div class="release-note">
+          <strong>Catalog status</strong>
+          <span>Public beta. India includes evaluated visual pairs. United States identity, current status, and provenance review is ongoing.</span>
+        </div>
+      </section>
+
+      <section class="section" id="quick-start">
+        <div class="section-heading">
+          <h2>Quick start</h2>
+          <p>Search above, select a bank, then copy the ready-to-use example.</p>
+        </div>
+        <div class="use-grid">
+          <ol class="steps">
+            <li><div><strong>Match the name</strong><p>Search a compact country index containing names and aliases only.</p></div></li>
+            <li><div><strong>Fetch one record</strong><p>Request the selected institution by its stable country-prefixed ID.</p></div></li>
+            <li><div><strong>Render and cache</strong><p>Use the revisioned icon or wordmark URL and show initials if it fails.</p></div></li>
+          </ol>
+
+          <div>
+            <div class="code-panel">
+              <div class="code-head"><span>Browser JavaScript</span><button class="copy" id="copy" type="button">Copy example</button></div>
+              <pre id="snippet">const base = 'https://feelfree82.github.io/bank-logo-catalog/';
+const id = 'in-hdfc-bank';
+
+const bank = await fetch(
+  new URL(`v1/institutions/${id}.json`, base)
+).then(response =&gt; response.json());
+
+bankImage.src = new URL(bank.logos.icon.svg, base);</pre>
+            </div>
+            <div class="endpoints">
+              <div class="endpoint"><code>v1/institutions/{id}.json</code><p>One static institution record.</p></div>
+              <div class="endpoint"><code>v1/countries/{code}/search-index.json</code><p>Country names and aliases without images.</p></div>
+              <div class="endpoint"><code>v1/search?country=IN&amp;q=hdfc</code><p>Optional limited server search.</p></div>
+              <div class="endpoint"><code>v1/batch?ids={id},{id}</code><p>Optional lookup for known IDs.</p></div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <div class="footer-credit">
+        <strong>Designed and maintained by <a href="https://labs.amitayre.com">Amit Ayre</a>.</strong>
+        <span>A growing independent project.</span>
+      </div>
+      <div class="footer-legal">
+        <p>Code and original documentation are MIT licensed. Bank names, logos, trademarks, and artwork belong to their respective owners and are excluded from that license. This project is not affiliated with or endorsed by any bank.</p>
+        <p><a href="mailto:banklogos@amitayre.com">Corrections or rights requests</a> · <a href="v1/schema.json" target="_blank" rel="noopener">View schema JSON</a></p>
+      </div>
+    </footer>
+  </div>
+
+  <script>
+    const country = document.querySelector('#country');
+    const query = document.querySelector('#query');
+    const status = document.querySelector('#status');
+    const results = document.querySelector('#results');
+    const snippet = document.querySelector('#snippet');
+    const cache = new Map();
+    let searchSequence = 0;
+    let selectedId = null;
+
+    const fields = {
+      name: document.querySelector('#detail-name'),
+      id: document.querySelector('#detail-id'),
+      review: document.querySelector('#review-label'),
+      country: document.querySelector('#record-country'),
+      status: document.querySelector('#record-status'),
+      revision: document.querySelector('#record-revision'),
+      iconType: document.querySelector('#icon-type'),
+      wordmarkType: document.querySelector('#wordmark-type'),
+      iconBoard: document.querySelector('#icon-board'),
+      wordmarkBoard: document.querySelector('#wordmark-board'),
+    };
+
+    const baseUrl = () => new URL('./', window.location.href);
+    const urlFor = path => new URL(path, baseUrl()).href;
+    const normalize = value => value.toLocaleLowerCase().normalize('NFKD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, '');
+
+    async function json(path) {
+      const response = await fetch(urlFor(path));
+      if (!response.ok) throw new Error('Catalog data is unavailable');
+      return response.json();
+    }
+
+    async function loadIndex(code) {
+      if (!cache.has(code)) cache.set(code, json(`v1/countries/${code.toLowerCase()}/search-index.json`));
+      return cache.get(code);
+    }
+
+    function renderArtwork(board, variant, name) {
+      board.replaceChildren();
+      const path = variant?.svg || variant?.png;
+      if (!path) {
+        const message = document.createElement('span');
+        message.className = 'unavailable';
+        message.textContent = 'Not available for this record';
+        board.append(message);
+        return;
+      }
+      const image = document.createElement('img');
+      image.src = urlFor(path);
+      image.alt = `${name} logo`;
+      image.addEventListener('error', () => {
+        board.replaceChildren();
+        const message = document.createElement('span');
+        message.className = 'unavailable';
+        message.textContent = 'Artwork failed to load';
+        board.append(message);
+      });
+      board.append(image);
+    }
+
+    function updateSnippet(id) {
+      snippet.textContent = `const base = 'https://feelfree82.github.io/bank-logo-catalog/';
+const id = '${id}';
+
+const bank = await fetch(
+  new URL(\`v1/institutions/\${id}.json\`, base)
+).then(response => response.json());
+
+bankImage.src = new URL(bank.logos.icon.svg, base);`;
+    }
+
+    async function selectRecord(id) {
+      selectedId = id;
+      document.querySelectorAll('.result-button').forEach(button => button.setAttribute('aria-current', String(button.dataset.id === id)));
+      try {
+        const record = await json(`v1/institutions/${id}.json`);
+        if (selectedId !== id) return;
+        fields.name.textContent = record.name;
+        fields.id.textContent = record.id;
+        fields.review.textContent = record.review_status.replaceAll('_', ' ');
+        fields.country.textContent = record.country;
+        fields.status.textContent = record.status.replaceAll('_', ' ');
+        fields.revision.textContent = record.logo_revision;
+        fields.iconType.textContent = record.logos.icon?.artwork_type?.replaceAll('_', ' ') || '';
+        fields.wordmarkType.textContent = record.logos.wordmark?.artwork_type?.replaceAll('_', ' ') || '';
+        updateSnippet(record.id);
+        renderArtwork(fields.iconBoard, record.logos.icon, record.name);
+        renderArtwork(fields.wordmarkBoard, record.logos.wordmark, record.name);
+      } catch (error) {
+        fields.name.textContent = error.message;
+      }
+    }
+
+    async function search() {
+      const sequence = ++searchSequence;
+      const code = country.value;
+      const term = query.value.trim();
+      selectedId = null;
+      results.replaceChildren();
+      if (!term) {
+        status.textContent = 'Type a bank name.';
+        return;
+      }
+      status.textContent = `Searching ${code === 'IN' ? 'India' : 'the United States'}…`;
+      try {
+        const index = await loadIndex(code);
+        if (sequence !== searchSequence) return;
+        const needle = normalize(term);
+        const matches = index.institutions
+          .map(institution => {
+            const names = [institution.name, ...(institution.aliases || [])].map(normalize);
+            const rank = names.includes(needle) ? 0 : names.some(name => name.startsWith(needle)) ? 1 : names.some(name => name.includes(needle)) ? 2 : 99;
+            return { institution, rank };
+          })
+          .filter(match => match.rank < 99)
+          .sort((a, b) => a.rank - b.rank || a.institution.name.length - b.institution.name.length || a.institution.name.localeCompare(b.institution.name))
+          .slice(0, 12)
+          .map(match => match.institution);
+
+        status.textContent = matches.length ? `${matches.length} match${matches.length === 1 ? '' : 'es'}` : `No match for “${term}”`;
+        if (!matches.length) return;
+        matches.forEach(institution => {
+          const button = document.createElement('button');
+          button.type = 'button';
+          button.className = 'result-button';
+          button.dataset.id = institution.id;
+          button.innerHTML = '<span class="result-title"></span><span class="result-id mono"></span>';
+          button.querySelector('.result-title').textContent = institution.name;
+          button.querySelector('.result-id').textContent = institution.id;
+          button.addEventListener('click', () => selectRecord(institution.id));
+          results.append(button);
+        });
+        selectRecord(matches[0].id);
+      } catch (error) {
+        status.textContent = error.message;
+      }
+    }
+
+    let debounce;
+    query.addEventListener('input', () => {
+      clearTimeout(debounce);
+      debounce = setTimeout(search, 160);
+    });
+    country.addEventListener('change', search);
+    document.querySelector('#copy').addEventListener('click', async event => {
+      await navigator.clipboard.writeText(snippet.innerText);
+      event.currentTarget.textContent = 'Copied';
+      setTimeout(() => { event.currentTarget.textContent = 'Copy example'; }, 1200);
+    });
+    search();
+  </script>
+</body>
+</html>

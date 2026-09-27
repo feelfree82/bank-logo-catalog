@@ -1,0 +1,19 @@
+{
+  "id": "us-moves",
+  "country": "US",
+  "name": "Moves",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "6902fe1254b237c8",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-moves/icon.svg?v=cd728a5e57b55ba2",
+      "png": "v1/assets/us/us-moves/icon.png?v=18e38c4b27476f36",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

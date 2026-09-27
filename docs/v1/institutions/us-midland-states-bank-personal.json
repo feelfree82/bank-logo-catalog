@@ -1,0 +1,19 @@
+{
+  "id": "us-midland-states-bank-personal",
+  "country": "US",
+  "name": "Midland States Bank - Personal",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "131bf0a15fc5728f",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-midland-states-bank-personal/icon.svg?v=351c7e1f02e8a60b",
+      "png": "v1/assets/us/us-midland-states-bank-personal/icon.png?v=ccb441cd2186f775",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

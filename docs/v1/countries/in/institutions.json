@@ -1,0 +1,1613 @@
+{
+  "schema_version": 1,
+  "country": "IN",
+  "generated_at": "2026-09-28",
+  "institutions": [
+    {
+      "id": "in-abn-amro",
+      "country": "IN",
+      "name": "ABN AMRO",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "544fac98d2ed2434",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-abn-amro/icon.svg?v=2a07986e14240559",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-abn-amro/wordmark.svg?v=c2afad136d709019",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-airtel-payments-bank",
+      "country": "IN",
+      "name": "Airtel Payments Bank",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "28322b54e541cbb0",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-airtel-payments-bank/icon.svg?v=80c952b6b18815bb",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-airtel-payments-bank/wordmark.svg?v=832d3d354c47c54f",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-american-express",
+      "country": "IN",
+      "name": "American Express",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "9e20c74efb0cf704",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-american-express/icon.svg?v=84c31627e5d8a961",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-american-express/wordmark.svg?v=1ff867b7e2bba955",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-au-small-finance-bank",
+      "country": "IN",
+      "name": "AU Small Finance Bank",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "c6a94bbb9be2274b",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-au-small-finance-bank/icon.svg?v=393f5ebfbc4322da",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-au-small-finance-bank/wordmark.svg?v=e044779cff0c8b92",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-australia-and-new-zealand-banking-group",
+      "country": "IN",
+      "name": "Australia and New Zealand Banking Group",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "efe37b1207fa2819",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-australia-and-new-zealand-banking-group/icon.svg?v=93ab36cad9b88fc6",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-australia-and-new-zealand-banking-group/wordmark.svg?v=2340a83b2ba766ae",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-axis-bank",
+      "country": "IN",
+      "name": "Axis bank",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "835d3b50b3b49442",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-axis-bank/icon.svg?v=6c5aaf600464f4b4",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-axis-bank/wordmark.svg?v=c8092d4782cc940e",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-bandhan-bank",
+      "country": "IN",
+      "name": "Bandhan Bank",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "aed5c5406dee0100",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-bandhan-bank/icon.svg?v=57b7c13c2ba5dd20",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-bandhan-bank/wordmark.svg?v=1f4334ce261d5ca4",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-maybank-indonesia",
+      "country": "IN",
+      "name": "Maybank Indonesia",
+      "official_name": null,
+      "aliases": [
+        "Bank Maybank Indonesia"
+      ],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "8ecc7695b977ded3",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-maybank-indonesia/icon.svg?v=c9986f2820e505e6",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-maybank-indonesia/wordmark.svg?v=17d8713f56bb26fe",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-bank-of-america",
+      "country": "IN",
+      "name": "Bank of America",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "473ce6aae88e4ae5",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-bank-of-america/icon.svg?v=c99950dc9661335a",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-bank-of-america/wordmark.svg?v=2c69b03ce61a4bec",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-bank-of-bahrain-and-kuwait",
+      "country": "IN",
+      "name": "Bank of Bahrain and Kuwait",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "da1a159b3620fa28",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-bank-of-bahrain-and-kuwait/icon.svg?v=c7546d4128be008c",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-bank-of-bahrain-and-kuwait/wordmark.svg?v=2efc2733b6b3feb5",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-bank-of-baroda",
+      "country": "IN",
+      "name": "Bank of Baroda",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "6f99fe190c64a50c",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-bank-of-baroda/icon.svg?v=b58bd983a7b4d6be",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-bank-of-baroda/wordmark.svg?v=bea195cdd252a3c2",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-bank-of-ceylon",
+      "country": "IN",
+      "name": "Bank of Ceylon",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "c17feb36a6ebb328",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-bank-of-ceylon/icon.svg?v=7c0e03595e0208e3",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-bank-of-ceylon/wordmark.svg?v=8b58572fe19724f6",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-bank-of-china",
+      "country": "IN",
+      "name": "Bank of China",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "8389d87f216f931a",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-bank-of-china/icon.svg?v=6e8d896de356d104",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-bank-of-china/wordmark.svg?v=a09640c533fa7efb",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-bank-of-india",
+      "country": "IN",
+      "name": "Bank of India",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "b8a847894cdcbe7c",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-bank-of-india/icon.svg?v=4e787090b962a352",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-bank-of-india/wordmark.svg?v=d7d20965cc025c13",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-bank-of-maharashtra",
+      "country": "IN",
+      "name": "Bank of Maharashtra",
+      "official_name": null,
+      "aliases": [
+        "Bank of Maharastra"
+      ],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "4cfdc2347ad7546e",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-bank-of-maharashtra/icon.svg?v=daed8791b0600d06",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-bank-of-maharashtra/wordmark.svg?v=a8afbca1ed044aaf",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-barclays-bank",
+      "country": "IN",
+      "name": "Barclays Bank",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "275a904d8255d78c",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-barclays-bank/icon.svg?v=0020babf0e704932",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-barclays-bank/wordmark.svg?v=462eb700e87d38e4",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-bnp-paribas",
+      "country": "IN",
+      "name": "BNP Paribas",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "e2683ca9dedec374",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-bnp-paribas/icon.svg?v=88b735e6196acb90",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-bnp-paribas/wordmark.svg?v=05fa98b3d0a45730",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-canara-bank",
+      "country": "IN",
+      "name": "Canara Bank",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "bd81e443a0936fe7",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-canara-bank/icon.svg?v=b4785af42e307bbf",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-canara-bank/wordmark.svg?v=7e99c83f01bbd7ad",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-central-bank-of-india",
+      "country": "IN",
+      "name": "Central Bank of India",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "fbeecee92d961f43",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-central-bank-of-india/icon.svg?v=d8b6417adf8a29dc",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-central-bank-of-india/wordmark.svg?v=0299da426833268f",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-citibank",
+      "country": "IN",
+      "name": "Citibank",
+      "official_name": null,
+      "aliases": [
+        "Citi Bank",
+        "Citibank N.A."
+      ],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "de0cbeb1d798c03a",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-citibank/icon.svg?v=f29e7a708c3a071a",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-citibank/wordmark.svg?v=f9c9202ffa9700a6",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-city-union-bank",
+      "country": "IN",
+      "name": "City Union Bank",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "a371a2287fa36571",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-city-union-bank/icon.svg?v=3be08921b9d62ff5",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-city-union-bank/wordmark.svg?v=83ca31ee58bfb468",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-credit-agricole-cib",
+      "country": "IN",
+      "name": "Crédit Agricole CIB",
+      "official_name": null,
+      "aliases": [
+        "Crédit Agricole Corporate and Investment Bank"
+      ],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "4e044dc6d4df2b8b",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-credit-agricole-cib/icon.svg?v=3f7ce89175b9e7b2",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-credit-agricole-cib/wordmark.svg?v=880df2fea1aff7b4",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-csb-bank",
+      "country": "IN",
+      "name": "CSB Bank",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "fc4cafeb89450bb3",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-csb-bank/icon.svg?v=98313504d815e13f",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-csb-bank/wordmark.svg?v=28d85dfdd34d0c41",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-dbs-bank",
+      "country": "IN",
+      "name": "DBS Bank",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "4e5ff6b06e698834",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-dbs-bank/icon.svg?v=58206394f27b6b41",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-dbs-bank/wordmark.svg?v=40bd3b88cd0f809c",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-dcb-bank",
+      "country": "IN",
+      "name": "DCB Bank",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "31c011f88813e2da",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-dcb-bank/icon.svg?v=2a47d1f9c02fb1f4",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-dcb-bank/wordmark.svg?v=6ad43ccff7cbcb21",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-deutsche-bank",
+      "country": "IN",
+      "name": "Deutsche Bank",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "7edb57bc86a94a69",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-deutsche-bank/icon.svg?v=e931cc1532030a21",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-deutsche-bank/wordmark.svg?v=904fdc902f60066b",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-dhanlaxmi-bank",
+      "country": "IN",
+      "name": "Dhanlaxmi Bank",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "c8336def0b18be69",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-dhanlaxmi-bank/icon.svg?v=9d495d0ade911e60",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-dhanlaxmi-bank/wordmark.svg?v=cd819df1eb8de441",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-doha-bank",
+      "country": "IN",
+      "name": "Doha Bank",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "7e46c9451fa36062",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-doha-bank/icon.svg?v=c6f479657ef2e47c",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-doha-bank/wordmark.svg?v=fb48fbf8e514a696",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-emirates-nbd",
+      "country": "IN",
+      "name": "Emirates NBD",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "05b5d850d616b37e",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-emirates-nbd/icon.svg?v=8ac4b1babeace8ee",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-emirates-nbd/wordmark.svg?v=5996c5321a2b1cbc",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-esaf-small-finance-bank-ltd",
+      "country": "IN",
+      "name": "ESAF Small Finance Bank Ltd",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "3cb9a0dd0ee8081a",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-esaf-small-finance-bank-ltd/icon.svg?v=8c263f21fbf35b1b",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-esaf-small-finance-bank-ltd/wordmark.svg?v=0781bf39796d582e",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-fino-payments-bank",
+      "country": "IN",
+      "name": "FINO Payments Bank",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "c0cdde19f8652ec2",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-fino-payments-bank/icon.svg?v=0630b3f246ae8341",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-fino-payments-bank/wordmark.svg?v=80446be3433c71e3",
+          "artwork_type": "raster_embedded"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-first-abu-dhabi-bank",
+      "country": "IN",
+      "name": "First Abu Dhabi Bank",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "53ebe316241e64cb",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-first-abu-dhabi-bank/icon.svg?v=e5e26afc232bde24",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-first-abu-dhabi-bank/wordmark.svg?v=bc69d9340e31924f",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-firstrand-bank",
+      "country": "IN",
+      "name": "FirstRand Bank",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "c7a8d80da56e7b4e",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-firstrand-bank/icon.svg?v=eda287463ba7a29a",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-firstrand-bank/wordmark.svg?v=24ab869c8fa20365",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-hdfc-bank",
+      "country": "IN",
+      "name": "HDFC Bank",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "d285556b84adbf7a",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-hdfc-bank/icon.svg?v=65966ac1e458d769",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-hdfc-bank/wordmark.svg?v=35bbf031662450d9",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-hsbc-bank",
+      "country": "IN",
+      "name": "HSBC Bank",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "42d62573077c3bb0",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-hsbc-bank/icon.svg?v=f31ae2255c745714",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-hsbc-bank/wordmark.svg?v=c739754fc640ef1e",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-icici-bank",
+      "country": "IN",
+      "name": "ICICI Bank",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "e13af95b6d2fa8d9",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-icici-bank/icon.svg?v=79e347e1d90718a5",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-icici-bank/wordmark.svg?v=7944fcd0a6b64658",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-idbi-bank",
+      "country": "IN",
+      "name": "IDBI Bank",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "714275645f26a523",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-idbi-bank/icon.svg?v=574e2eaf524d5a35",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-idbi-bank/wordmark.svg?v=0547019a5a35824b",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-idfc-first-bank",
+      "country": "IN",
+      "name": "IDFC FIRST Bank",
+      "official_name": null,
+      "aliases": [
+        "IDFC Bank"
+      ],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "405e2f64df44b5ac",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-idfc-first-bank/icon.svg?v=620237d6b0bacf71",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-idfc-first-bank/wordmark.svg?v=b3eb4aebfe313018",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-india-post-payments-bank",
+      "country": "IN",
+      "name": "India Post Payments Bank",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "28e2793604f9b89c",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-india-post-payments-bank/icon.svg?v=b11e2ca522ba765c",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-india-post-payments-bank/wordmark.svg?v=3aea615ee7aac99a",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-indian-bank",
+      "country": "IN",
+      "name": "Indian Bank",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "998a81f86bbd3460",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-indian-bank/icon.svg?v=05df4b736da5def2",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-indian-bank/wordmark.svg?v=f7e1bed69711c5dc",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-indian-overseas-bank",
+      "country": "IN",
+      "name": "Indian Overseas Bank",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "f0c7f2b674b31a02",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-indian-overseas-bank/icon.svg?v=fb7b2f6603266c43",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-indian-overseas-bank/wordmark.svg?v=1753a650efb98bea",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-indusind-bank",
+      "country": "IN",
+      "name": "IndusInd Bank",
+      "official_name": null,
+      "aliases": [
+        "Induslnd Bank"
+      ],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "9f88758685182175",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-indusind-bank/icon.svg?v=b5f4b073bdbe2892",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-indusind-bank/wordmark.svg?v=6e0c706feed06025",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-industrial-commercial-bank-of-china",
+      "country": "IN",
+      "name": "Industrial & Commercial Bank of China",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "4ff2bb746164ac25",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-industrial-commercial-bank-of-china/icon.svg?v=55d3333d30089b9d",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-industrial-commercial-bank-of-china/wordmark.svg?v=351c912daa002df8",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-industrial-bank-of-korea",
+      "country": "IN",
+      "name": "Industrial Bank of Korea",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "6d2041c6abeb9fba",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-industrial-bank-of-korea/icon.svg?v=a0ac83af2b60ad04",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-industrial-bank-of-korea/wordmark.svg?v=8ca8f0a18a88a6d9",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-jammu-kashmir-bank",
+      "country": "IN",
+      "name": "Jammu & Kashmir Bank",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "7b6d7f30b6f1ed03",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-jammu-kashmir-bank/icon.svg?v=c0edd6f62a918155",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-jammu-kashmir-bank/wordmark.svg?v=a50a1c530c1aa4b6",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-jio-payments-bank",
+      "country": "IN",
+      "name": "Jio Payments Bank",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "d80b009fddfb2a21",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-jio-payments-bank/icon.svg?v=a0da3fa7de5f274d",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-jio-payments-bank/wordmark.svg?v=68841ad7a8329c91",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-j-p-morgan-chase-bank",
+      "country": "IN",
+      "name": "J.P. Morgan Chase Bank",
+      "official_name": null,
+      "aliases": [
+        "JPMorgan Chase"
+      ],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "6cd2063bf66ce59e",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-j-p-morgan-chase-bank/icon.svg?v=7b8b6e19c482a143",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-j-p-morgan-chase-bank/wordmark.svg?v=6c623bdd993ea123",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-karnataka-bank",
+      "country": "IN",
+      "name": "Karnataka Bank",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "5f41f41a05c3c62b",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-karnataka-bank/icon.svg?v=89627bb145f03c47",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-karnataka-bank/wordmark.svg?v=d71e639541986db3",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-keb-hana-bank",
+      "country": "IN",
+      "name": "KEB Hana Bank",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "8ddb65ef88a7b81d",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-keb-hana-bank/icon.svg?v=3948f267d9812104",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-keb-hana-bank/wordmark.svg?v=7c895de81eea7e56",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-kookmin-bank",
+      "country": "IN",
+      "name": "Kookmin Bank",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "1a45fca68e407cb3",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-kookmin-bank/icon.svg?v=13c4f90c2831908f",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-kookmin-bank/wordmark.svg?v=1128c0b4b1df11fd",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-kotak-mahindra-bank",
+      "country": "IN",
+      "name": "Kotak Mahindra Bank",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "16312da7170687a0",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-kotak-mahindra-bank/icon.svg?v=4fb75b56bd4196cf",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-kotak-mahindra-bank/wordmark.svg?v=c402e985d8a45c99",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-mizuho-bank",
+      "country": "IN",
+      "name": "Mizuho Bank",
+      "official_name": null,
+      "aliases": [
+        "Mizuho Corporate Bank"
+      ],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "6c17b09a5be8556b",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-mizuho-bank/icon.svg?v=7f13975cb9138572",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-mizuho-bank/wordmark.svg?v=b0ad365bc60e1c08",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-mufg-bank",
+      "country": "IN",
+      "name": "MUFG Bank",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "590eb3d8c896575c",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-mufg-bank/icon.svg?v=602df2c7d4d848ed",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-mufg-bank/wordmark.svg?v=3e4a2e23f23c4c94",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-natwest-bank",
+      "country": "IN",
+      "name": "NatWest Bank",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "beeaeba50b05efae",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-natwest-bank/icon.svg?v=b30438dc7bdcfa67",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-natwest-bank/wordmark.svg?v=9376e5f8a7f00b38",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-punjab-sind-bank",
+      "country": "IN",
+      "name": "Punjab & Sind Bank",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "7a4c763b2d40d487",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-punjab-sind-bank/icon.svg?v=01570ccd983f27ef",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-punjab-sind-bank/wordmark.svg?v=4aad77ec267c44fa",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-punjab-national-bank",
+      "country": "IN",
+      "name": "Punjab National Bank",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "f06a6e39c0e4b784",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-punjab-national-bank/icon.svg?v=5bcdaf7d5d0fea41",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-punjab-national-bank/wordmark.svg?v=d64a5dd1909db595",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-qatar-national-bank",
+      "country": "IN",
+      "name": "Qatar National Bank",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "d89db4056e5b5f74",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-qatar-national-bank/icon.svg?v=0e4d010e71e846d5",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-qatar-national-bank/wordmark.svg?v=683ecf13009afad0",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-rbl-bank",
+      "country": "IN",
+      "name": "RBL Bank",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "fe7f27e7c589b0f5",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-rbl-bank/icon.svg?v=91b1c41cd13e2d1c",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-rbl-bank/wordmark.svg?v=443c06f0ac62cc6c",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-sberbank",
+      "country": "IN",
+      "name": "Sberbank",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "b24c58cf4aa76600",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-sberbank/icon.svg?v=e0ea0f07b338f824",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-sberbank/wordmark.svg?v=ed773ced260a3b46",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-scotiabank",
+      "country": "IN",
+      "name": "Scotiabank",
+      "official_name": null,
+      "aliases": [
+        "Scotia Bank",
+        "Bank of Nova Scotia"
+      ],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "6686a780f0f9e246",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-scotiabank/icon.svg?v=9cde1f2cbd2bbada",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-scotiabank/wordmark.svg?v=91ec614414a96167",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-shinhan-bank",
+      "country": "IN",
+      "name": "Shinhan Bank",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "6e18a03c49939ec3",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-shinhan-bank/icon.svg?v=3ae2680da2cc76ae",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-shinhan-bank/wordmark.svg?v=180fa048b82820eb",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-societe-generale",
+      "country": "IN",
+      "name": "Société Générale",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "510cda10cfe119b0",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-societe-generale/icon.svg?v=6eec228a9cf1df18",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-societe-generale/wordmark.svg?v=1648243dcea416d9",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-south-indian-bank",
+      "country": "IN",
+      "name": "South Indian Bank",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "3b9fe3f06a67e91c",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-south-indian-bank/icon.svg?v=02becc13a5270a42",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-south-indian-bank/wordmark.svg?v=486f944a4435201b",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-standard-chartered-bank",
+      "country": "IN",
+      "name": "Standard Chartered Bank",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "c621d9c0cfe57137",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-standard-chartered-bank/icon.svg?v=e5af1afd2506bfe5",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-standard-chartered-bank/wordmark.svg?v=20202ebb699dfb0e",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-state-bank-of-india",
+      "country": "IN",
+      "name": "State Bank of India",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "05072785f933fd08",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-state-bank-of-india/icon.svg?v=6de9a0dd8dac995e",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-state-bank-of-india/wordmark.svg?v=506cb886ecfc07d1",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-sumitomo-mitsui-banking-corporation",
+      "country": "IN",
+      "name": "Sumitomo Mitsui Banking Corporation",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "6d4bbea46e7044d1",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-sumitomo-mitsui-banking-corporation/icon.svg?v=85d17acfe8df8d71",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-sumitomo-mitsui-banking-corporation/wordmark.svg?v=4357e442667f5a91",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-tamilnad-mercantile-bank",
+      "country": "IN",
+      "name": "Tamilnad Mercantile Bank",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "57750ecb347ff3ae",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-tamilnad-mercantile-bank/icon.svg?v=412776cc7f977864",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-tamilnad-mercantile-bank/wordmark.svg?v=e3daee73a211e4f9",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-uco-bank",
+      "country": "IN",
+      "name": "UCO Bank",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "7c57eb62aa72ffc6",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-uco-bank/icon.svg?v=b511ed0a41d48129",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-uco-bank/wordmark.svg?v=96f2dee15db3a87a",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-ujjivan-small-finance-bank",
+      "country": "IN",
+      "name": "Ujjivan Small Finance Bank",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "2edf9003569de982",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-ujjivan-small-finance-bank/icon.svg?v=7343a63d5aa03c87",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-ujjivan-small-finance-bank/wordmark.svg?v=5646f525723debb7",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-union-bank-of-india",
+      "country": "IN",
+      "name": "Union Bank of India",
+      "official_name": null,
+      "aliases": [
+        "Union Bank"
+      ],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "c8b4e4c79b1ae689",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-union-bank-of-india/icon.svg?v=d0005607395bdef9",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-union-bank-of-india/wordmark.svg?v=33500c832528619b",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-united-overseas-bank",
+      "country": "IN",
+      "name": "United Overseas Bank",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "a8b8dee5b543923f",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-united-overseas-bank/icon.svg?v=11f1884443779c02",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-united-overseas-bank/wordmark.svg?v=f61735cb73b16070",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    },
+    {
+      "id": "in-woori-bank",
+      "country": "IN",
+      "name": "Woori Bank",
+      "official_name": null,
+      "aliases": [],
+      "institution_type": "bank",
+      "status": "active_candidate",
+      "logo_revision": "8f7efc5b00d393e9",
+      "updated_at": null,
+      "logos": {
+        "icon": {
+          "svg": "v1/assets/in/in-woori-bank/icon.svg?v=195a22216ade2ea9",
+          "artwork_type": "vector"
+        },
+        "wordmark": {
+          "svg": "v1/assets/in/in-woori-bank/wordmark.svg?v=8331ebaba42437a5",
+          "artwork_type": "vector"
+        }
+      },
+      "review_status": "visual_pair_checked_provenance_unverified"
+    }
+  ]
+}

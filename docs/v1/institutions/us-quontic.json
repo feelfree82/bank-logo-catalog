@@ -1,0 +1,19 @@
+{
+  "id": "us-quontic",
+  "country": "US",
+  "name": "Quontic",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "17c25d70a78a9f59",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-quontic/icon.svg?v=9e7144fdd800fac3",
+      "png": "v1/assets/us/us-quontic/icon.png?v=743586186499621a",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

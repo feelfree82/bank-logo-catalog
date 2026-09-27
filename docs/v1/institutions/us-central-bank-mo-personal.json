@@ -1,0 +1,19 @@
+{
+  "id": "us-central-bank-mo-personal",
+  "country": "US",
+  "name": "Central Bank (MO) - Personal",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "a1be429ac1ccd92a",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-central-bank-mo-personal/icon.svg?v=6248af339e47d4cf",
+      "png": "v1/assets/us/us-central-bank-mo-personal/icon.png?v=1380951ea973bab4",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "us-woodlands-bank-pa",
+  "country": "US",
+  "name": "Woodlands Bank (PA)",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "756f71daeaf74bc0",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-woodlands-bank-pa/icon.svg?v=08c5e7c77eb6cbc5",
+      "png": "v1/assets/us/us-woodlands-bank-pa/icon.png?v=f5a75f836df5b0c7",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

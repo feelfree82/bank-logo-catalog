@@ -1,0 +1,19 @@
+{
+  "id": "us-bank-of-hawaii-personal",
+  "country": "US",
+  "name": "Bank of Hawaii - Personal",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "1e6e1b1e8a7e1bfe",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-bank-of-hawaii-personal/icon.svg?v=81882cf117e06d15",
+      "png": "v1/assets/us/us-bank-of-hawaii-personal/icon.png?v=389ac932da57e916",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

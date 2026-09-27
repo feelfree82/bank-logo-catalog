@@ -1,0 +1,19 @@
+{
+  "id": "us-first-new-mexico-bank-deming-nm",
+  "country": "US",
+  "name": "First New Mexico Bank - Deming, NM",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "e0c7dfd1f31208aa",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-first-new-mexico-bank-deming-nm/icon.svg?v=8e2b0c6d8f0f6a24",
+      "png": "v1/assets/us/us-first-new-mexico-bank-deming-nm/icon.png?v=2d9f0ddf3d597adb",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

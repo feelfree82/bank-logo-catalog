@@ -1,0 +1,19 @@
+{
+  "id": "us-educators-credit-union-wi",
+  "country": "US",
+  "name": "Educators Credit Union (WI)",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "2dcc68468e435651",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-educators-credit-union-wi/icon.svg?v=2759af7b25a92775",
+      "png": "v1/assets/us/us-educators-credit-union-wi/icon.png?v=576903e42cb42f2a",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

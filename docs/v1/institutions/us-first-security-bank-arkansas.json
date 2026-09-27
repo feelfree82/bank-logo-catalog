@@ -1,0 +1,19 @@
+{
+  "id": "us-first-security-bank-arkansas",
+  "country": "US",
+  "name": "First Security Bank (Arkansas)",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "18668e7b6b32ab30",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-first-security-bank-arkansas/icon.svg?v=e515f8d85bf2d84b",
+      "png": "v1/assets/us/us-first-security-bank-arkansas/icon.png?v=ee173ec803005df2",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

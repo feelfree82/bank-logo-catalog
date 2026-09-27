@@ -1,0 +1,22 @@
+{
+  "id": "in-keb-hana-bank",
+  "country": "IN",
+  "name": "KEB Hana Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "8ddb65ef88a7b81d",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-keb-hana-bank/icon.svg?v=3948f267d9812104",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-keb-hana-bank/wordmark.svg?v=7c895de81eea7e56",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

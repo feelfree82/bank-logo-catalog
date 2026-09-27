@@ -1,0 +1,19 @@
+{
+  "id": "us-secu-credit-union",
+  "country": "US",
+  "name": "SECU Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "a305239e6a112332",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-secu-credit-union/icon.svg?v=608009c099fee8fa",
+      "png": "v1/assets/us/us-secu-credit-union/icon.png?v=74d0c9ac484ee154",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

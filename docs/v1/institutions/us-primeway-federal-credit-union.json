@@ -1,0 +1,19 @@
+{
+  "id": "us-primeway-federal-credit-union",
+  "country": "US",
+  "name": "PrimeWay Federal Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "11064b00e86ebe57",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-primeway-federal-credit-union/icon.svg?v=65d843d386b3faa6",
+      "png": "v1/assets/us/us-primeway-federal-credit-union/icon.png?v=712b0dc40d09a7ab",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

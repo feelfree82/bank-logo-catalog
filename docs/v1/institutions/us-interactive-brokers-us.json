@@ -1,0 +1,19 @@
+{
+  "id": "us-interactive-brokers-us",
+  "country": "US",
+  "name": "Interactive Brokers - US",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "ff069d489d3f6bc0",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-interactive-brokers-us/icon.svg?v=75ccf1feed1675ac",
+      "png": "v1/assets/us/us-interactive-brokers-us/icon.png?v=8e14b3a0a930ed90",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

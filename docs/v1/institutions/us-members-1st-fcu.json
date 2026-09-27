@@ -1,0 +1,19 @@
+{
+  "id": "us-members-1st-fcu",
+  "country": "US",
+  "name": "Members 1st FCU",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "4acb67903eb4e869",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-members-1st-fcu/icon.svg?v=c5bb4f1133988a99",
+      "png": "v1/assets/us/us-members-1st-fcu/icon.png?v=dc7ef3a799ca5063",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "us-great-southern-bank",
+  "country": "US",
+  "name": "Great Southern Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "05954db1930f7196",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-great-southern-bank/icon.svg?v=2c4f532de441af89",
+      "png": "v1/assets/us/us-great-southern-bank/icon.png?v=85a1f92a2c6ad957",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

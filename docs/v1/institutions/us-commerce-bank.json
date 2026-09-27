@@ -1,0 +1,19 @@
+{
+  "id": "us-commerce-bank",
+  "country": "US",
+  "name": "Commerce Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "6fdbe241aac045ec",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-commerce-bank/icon.svg?v=22daa4420172795f",
+      "png": "v1/assets/us/us-commerce-bank/icon.png?v=8c5372e368f22374",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

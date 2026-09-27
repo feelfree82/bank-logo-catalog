@@ -1,0 +1,19 @@
+{
+  "id": "us-firstbank-colorado-business-online-banking",
+  "country": "US",
+  "name": "FirstBank (Colorado) - Business Online Banking",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "ffcedd3c7cadebaa",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-firstbank-colorado-business-online-banking/icon.svg?v=100389835491d791",
+      "png": "v1/assets/us/us-firstbank-colorado-business-online-banking/icon.png?v=1580835e519de2b9",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

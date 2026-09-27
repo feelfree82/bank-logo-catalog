@@ -1,0 +1,22 @@
+{
+  "id": "in-bandhan-bank",
+  "country": "IN",
+  "name": "Bandhan Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "aed5c5406dee0100",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-bandhan-bank/icon.svg?v=57b7c13c2ba5dd20",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-bandhan-bank/wordmark.svg?v=1f4334ce261d5ca4",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "us-first-new-mexico-bank-las-cruces-nm",
+  "country": "US",
+  "name": "First New Mexico Bank - Las Cruces, NM",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "a5db3ab0e1614f13",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-first-new-mexico-bank-las-cruces-nm/icon.svg?v=6c2f3723bfc7395e",
+      "png": "v1/assets/us/us-first-new-mexico-bank-las-cruces-nm/icon.png?v=2d9f0ddf3d597adb",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

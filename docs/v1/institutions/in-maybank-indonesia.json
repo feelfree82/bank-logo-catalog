@@ -1,0 +1,24 @@
+{
+  "id": "in-maybank-indonesia",
+  "country": "IN",
+  "name": "Maybank Indonesia",
+  "official_name": null,
+  "aliases": [
+    "Bank Maybank Indonesia"
+  ],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "8ecc7695b977ded3",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-maybank-indonesia/icon.svg?v=c9986f2820e505e6",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-maybank-indonesia/wordmark.svg?v=17d8713f56bb26fe",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

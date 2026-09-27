@@ -1,0 +1,19 @@
+{
+  "id": "us-pnc",
+  "country": "US",
+  "name": "PNC",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "b64927cc1126733b",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-pnc/icon.svg?v=5373a691d1834b4e",
+      "png": "v1/assets/us/us-pnc/icon.png?v=dbe9026a43c8f894",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "in-esaf-small-finance-bank-ltd",
+  "country": "IN",
+  "name": "ESAF Small Finance Bank Ltd",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "3cb9a0dd0ee8081a",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-esaf-small-finance-bank-ltd/icon.svg?v=8c263f21fbf35b1b",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-esaf-small-finance-bank-ltd/wordmark.svg?v=0781bf39796d582e",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

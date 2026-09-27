@@ -1,0 +1,19 @@
+{
+  "id": "us-rogue-credit-union",
+  "country": "US",
+  "name": "Rogue Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "ee2395c81b455961",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-rogue-credit-union/icon.svg?v=9eb4a56b925ef27d",
+      "png": "v1/assets/us/us-rogue-credit-union/icon.png?v=ec9b8e7ce75895d3",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

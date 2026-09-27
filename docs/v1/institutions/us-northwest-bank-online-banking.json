@@ -1,0 +1,19 @@
+{
+  "id": "us-northwest-bank-online-banking",
+  "country": "US",
+  "name": "Northwest Bank - Online Banking",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "884addbc486cf862",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-northwest-bank-online-banking/icon.svg?v=9615578500c6e368",
+      "png": "v1/assets/us/us-northwest-bank-online-banking/icon.png?v=3f812b9afe9138f0",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "in-indian-overseas-bank",
+  "country": "IN",
+  "name": "Indian Overseas Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "f0c7f2b674b31a02",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-indian-overseas-bank/icon.svg?v=fb7b2f6603266c43",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-indian-overseas-bank/wordmark.svg?v=1753a650efb98bea",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

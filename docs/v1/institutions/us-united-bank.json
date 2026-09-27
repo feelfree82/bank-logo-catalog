@@ -1,0 +1,19 @@
+{
+  "id": "us-united-bank",
+  "country": "US",
+  "name": "United Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "7f809fede73a2d06",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-united-bank/icon.svg?v=3439cf1b493b5c90",
+      "png": "v1/assets/us/us-united-bank/icon.png?v=d6d1d528758f2a5d",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

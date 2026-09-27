@@ -1,0 +1,22 @@
+{
+  "id": "in-united-overseas-bank",
+  "country": "IN",
+  "name": "United Overseas Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "a8b8dee5b543923f",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-united-overseas-bank/icon.svg?v=11f1884443779c02",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-united-overseas-bank/wordmark.svg?v=f61735cb73b16070",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

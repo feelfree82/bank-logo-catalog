@@ -1,0 +1,19 @@
+{
+  "id": "us-valley-strong-credit-union",
+  "country": "US",
+  "name": "Valley Strong Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "15570a16e316cf3c",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-valley-strong-credit-union/icon.svg?v=bac1447cec046d1a",
+      "png": "v1/assets/us/us-valley-strong-credit-union/icon.png?v=e0241d11c5099b19",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

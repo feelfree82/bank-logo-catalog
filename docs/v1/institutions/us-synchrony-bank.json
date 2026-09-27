@@ -1,0 +1,19 @@
+{
+  "id": "us-synchrony-bank",
+  "country": "US",
+  "name": "Synchrony Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "65734465d8eaf5e1",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-synchrony-bank/icon.svg?v=8552954fa4473cd4",
+      "png": "v1/assets/us/us-synchrony-bank/icon.png?v=c8f2f553c0efa505",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

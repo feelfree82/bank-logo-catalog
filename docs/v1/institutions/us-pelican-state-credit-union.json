@@ -1,0 +1,19 @@
+{
+  "id": "us-pelican-state-credit-union",
+  "country": "US",
+  "name": "Pelican State Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "dd9a2f3b150a5479",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-pelican-state-credit-union/icon.svg?v=3e25737ccb6177ae",
+      "png": "v1/assets/us/us-pelican-state-credit-union/icon.png?v=57f37e77d666239f",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

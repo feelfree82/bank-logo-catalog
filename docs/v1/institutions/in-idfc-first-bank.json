@@ -1,0 +1,24 @@
+{
+  "id": "in-idfc-first-bank",
+  "country": "IN",
+  "name": "IDFC FIRST Bank",
+  "official_name": null,
+  "aliases": [
+    "IDFC Bank"
+  ],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "405e2f64df44b5ac",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-idfc-first-bank/icon.svg?v=620237d6b0bacf71",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-idfc-first-bank/wordmark.svg?v=b3eb4aebfe313018",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

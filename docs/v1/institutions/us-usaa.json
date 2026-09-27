@@ -1,0 +1,19 @@
+{
+  "id": "us-usaa",
+  "country": "US",
+  "name": "USAA",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "3dcab5fdca8ecb33",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-usaa/icon.svg?v=05747ba3b2c2da34",
+      "png": "v1/assets/us/us-usaa/icon.png?v=f41933a3e3d79ec8",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

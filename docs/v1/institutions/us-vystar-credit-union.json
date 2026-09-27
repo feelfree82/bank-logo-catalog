@@ -1,0 +1,19 @@
+{
+  "id": "us-vystar-credit-union",
+  "country": "US",
+  "name": "VyStar Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "de2f9a5757768caf",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-vystar-credit-union/icon.svg?v=9b2b354a1b356b8a",
+      "png": "v1/assets/us/us-vystar-credit-union/icon.png?v=d07e7a6310e2d347",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "us-jetstream-federal-credit-union",
+  "country": "US",
+  "name": "JetStream Federal Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "e3343e4080302359",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-jetstream-federal-credit-union/icon.svg?v=5ab66d55beb93c81",
+      "png": "v1/assets/us/us-jetstream-federal-credit-union/icon.png?v=8beaec99fc3b872b",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

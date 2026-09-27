@@ -1,0 +1,19 @@
+{
+  "id": "us-midfirst-bank-personal",
+  "country": "US",
+  "name": "MidFirst Bank - Personal",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "8d65554869b51fb5",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-midfirst-bank-personal/icon.svg?v=adbb3006a95e1541",
+      "png": "v1/assets/us/us-midfirst-bank-personal/icon.png?v=607996f45dce7623",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

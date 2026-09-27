@@ -1,0 +1,19 @@
+{
+  "id": "us-university-credit-union",
+  "country": "US",
+  "name": "University Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "f9dc0be1cadd8461",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-university-credit-union/icon.svg?v=e8318aadaee34477",
+      "png": "v1/assets/us/us-university-credit-union/icon.png?v=1b7a97e7d4f708ad",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

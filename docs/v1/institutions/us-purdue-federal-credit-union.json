@@ -1,0 +1,19 @@
+{
+  "id": "us-purdue-federal-credit-union",
+  "country": "US",
+  "name": "Purdue Federal Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "3350b26b291c4a42",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-purdue-federal-credit-union/icon.svg?v=d8e6e7a1b36e557e",
+      "png": "v1/assets/us/us-purdue-federal-credit-union/icon.png?v=b736b6c3e1e79dfa",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "us-dime-bank-ct",
+  "country": "US",
+  "name": "Dime Bank (CT)",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "ec1593dc9885093f",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-dime-bank-ct/icon.svg?v=1916323f56b4f411",
+      "png": "v1/assets/us/us-dime-bank-ct/icon.png?v=16d1461fd55943d2",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

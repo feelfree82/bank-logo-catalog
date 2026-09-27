@@ -1,0 +1,24 @@
+{
+  "id": "in-bank-of-maharashtra",
+  "country": "IN",
+  "name": "Bank of Maharashtra",
+  "official_name": null,
+  "aliases": [
+    "Bank of Maharastra"
+  ],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "4cfdc2347ad7546e",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-bank-of-maharashtra/icon.svg?v=daed8791b0600d06",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-bank-of-maharashtra/wordmark.svg?v=a8afbca1ed044aaf",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

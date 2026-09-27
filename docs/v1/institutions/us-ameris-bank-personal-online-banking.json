@@ -1,0 +1,19 @@
+{
+  "id": "us-ameris-bank-personal-online-banking",
+  "country": "US",
+  "name": "Ameris Bank - Personal Online Banking",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "172e902a77b4abfb",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-ameris-bank-personal-online-banking/icon.svg?v=c7def9ecf4598ff7",
+      "png": "v1/assets/us/us-ameris-bank-personal-online-banking/icon.png?v=ac7d610ec2c24f1b",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

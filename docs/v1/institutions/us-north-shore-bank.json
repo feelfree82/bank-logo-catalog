@@ -1,0 +1,19 @@
+{
+  "id": "us-north-shore-bank",
+  "country": "US",
+  "name": "North Shore Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "feb762d594848c02",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-north-shore-bank/icon.svg?v=b807a9420d271c85",
+      "png": "v1/assets/us/us-north-shore-bank/icon.png?v=9c450212a33c2bb6",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

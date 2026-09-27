@@ -1,0 +1,19 @@
+{
+  "id": "us-keybank-prepaid-key2benefits",
+  "country": "US",
+  "name": "KeyBank Prepaid - Key2Benefits",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "5562f83d6427553f",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-keybank-prepaid-key2benefits/icon.svg?v=a979714f74df190d",
+      "png": "v1/assets/us/us-keybank-prepaid-key2benefits/icon.png?v=4dba5b55ecb8b0c5",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "us-oneunited-bank",
+  "country": "US",
+  "name": "OneUnited Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "1352f97be66c5e24",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-oneunited-bank/icon.svg?v=8df96ce2b88edd1f",
+      "png": "v1/assets/us/us-oneunited-bank/icon.png?v=a7d80094997eda2a",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

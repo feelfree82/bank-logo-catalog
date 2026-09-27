@@ -1,0 +1,24 @@
+{
+  "id": "in-j-p-morgan-chase-bank",
+  "country": "IN",
+  "name": "J.P. Morgan Chase Bank",
+  "official_name": null,
+  "aliases": [
+    "JPMorgan Chase"
+  ],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "6cd2063bf66ce59e",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-j-p-morgan-chase-bank/icon.svg?v=7b8b6e19c482a143",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-j-p-morgan-chase-bank/wordmark.svg?v=6c623bdd993ea123",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

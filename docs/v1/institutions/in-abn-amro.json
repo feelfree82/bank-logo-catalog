@@ -1,0 +1,22 @@
+{
+  "id": "in-abn-amro",
+  "country": "IN",
+  "name": "ABN AMRO",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "544fac98d2ed2434",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-abn-amro/icon.svg?v=2a07986e14240559",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-abn-amro/wordmark.svg?v=c2afad136d709019",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "us-oxygen",
+  "country": "US",
+  "name": "Oxygen",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "4f8a02b954f9dc70",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-oxygen/icon.svg?v=7cfc38d5b744d5a8",
+      "png": "v1/assets/us/us-oxygen/icon.png?v=c3ee08712bd59451",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

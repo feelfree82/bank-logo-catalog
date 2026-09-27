@@ -1,0 +1,19 @@
+{
+  "id": "us-prime-alliance-bank-1",
+  "country": "US",
+  "name": "Prime Alliance Bank-1",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "7e9cadc951f53d31",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-prime-alliance-bank-1/icon.svg?v=ff89a1378cd15d8f",
+      "png": "v1/assets/us/us-prime-alliance-bank-1/icon.png?v=293461847f861fa6",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "in-natwest-bank",
+  "country": "IN",
+  "name": "NatWest Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "beeaeba50b05efae",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-natwest-bank/icon.svg?v=b30438dc7bdcfa67",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-natwest-bank/wordmark.svg?v=9376e5f8a7f00b38",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

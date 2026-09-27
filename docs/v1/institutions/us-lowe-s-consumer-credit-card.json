@@ -1,0 +1,19 @@
+{
+  "id": "us-lowe-s-consumer-credit-card",
+  "country": "US",
+  "name": "Lowe's Consumer Credit Card",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "ad38e71bb482c54b",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-lowe-s-consumer-credit-card/icon.svg?v=5fba6a3251e8284e",
+      "png": "v1/assets/us/us-lowe-s-consumer-credit-card/icon.png?v=f1d92d7587b03857",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

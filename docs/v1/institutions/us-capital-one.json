@@ -1,0 +1,19 @@
+{
+  "id": "us-capital-one",
+  "country": "US",
+  "name": "Capital One",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "d5a4c784c9351379",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-capital-one/icon.svg?v=10252578cd2271c7",
+      "png": "v1/assets/us/us-capital-one/icon.png?v=8985464ed11682be",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

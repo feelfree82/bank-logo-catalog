@@ -1,0 +1,19 @@
+{
+  "id": "us-netspend-all-access-account-by-metabank",
+  "country": "US",
+  "name": "Netspend All-Access Account by MetaBank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "579be0ec21dfcb19",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-netspend-all-access-account-by-metabank/icon.svg?v=7db9224e6c8f75dd",
+      "png": "v1/assets/us/us-netspend-all-access-account-by-metabank/icon.png?v=94271999fb9e23be",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "us-srp-federal-credit-union",
+  "country": "US",
+  "name": "SRP Federal Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "b2f69b471cfdfbed",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-srp-federal-credit-union/icon.svg?v=aadd1f126e7a33c4",
+      "png": "v1/assets/us/us-srp-federal-credit-union/icon.png?v=c3ed167c37b0cfb0",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

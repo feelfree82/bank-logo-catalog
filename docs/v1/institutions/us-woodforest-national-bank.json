@@ -1,0 +1,19 @@
+{
+  "id": "us-woodforest-national-bank",
+  "country": "US",
+  "name": "Woodforest National Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "8c46c3f09dd6d2cc",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-woodforest-national-bank/icon.svg?v=a057a271a30187e2",
+      "png": "v1/assets/us/us-woodforest-national-bank/icon.png?v=16e3daea60d18c2a",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

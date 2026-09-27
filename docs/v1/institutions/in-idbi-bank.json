@@ -1,0 +1,22 @@
+{
+  "id": "in-idbi-bank",
+  "country": "IN",
+  "name": "IDBI Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "714275645f26a523",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-idbi-bank/icon.svg?v=574e2eaf524d5a35",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-idbi-bank/wordmark.svg?v=0547019a5a35824b",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

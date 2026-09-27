@@ -1,0 +1,22 @@
+{
+  "id": "in-american-express",
+  "country": "IN",
+  "name": "American Express",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "9e20c74efb0cf704",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-american-express/icon.svg?v=84c31627e5d8a961",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-american-express/wordmark.svg?v=1ff867b7e2bba955",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

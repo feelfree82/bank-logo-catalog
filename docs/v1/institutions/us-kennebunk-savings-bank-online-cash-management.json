@@ -1,0 +1,19 @@
+{
+  "id": "us-kennebunk-savings-bank-online-cash-management",
+  "country": "US",
+  "name": "Kennebunk Savings Bank - Online Cash Management",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "0bf649fa24150a0b",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-kennebunk-savings-bank-online-cash-management/icon.svg?v=3f4f3483a4535718",
+      "png": "v1/assets/us/us-kennebunk-savings-bank-online-cash-management/icon.png?v=71ff2bff3cdc238e",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

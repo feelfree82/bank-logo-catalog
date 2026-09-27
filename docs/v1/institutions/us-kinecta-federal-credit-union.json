@@ -1,0 +1,19 @@
+{
+  "id": "us-kinecta-federal-credit-union",
+  "country": "US",
+  "name": "Kinecta Federal Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "b56a8a2390d399f7",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-kinecta-federal-credit-union/icon.svg?v=0b1a75f6adc5df0d",
+      "png": "v1/assets/us/us-kinecta-federal-credit-union/icon.png?v=3553cb31a456c333",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

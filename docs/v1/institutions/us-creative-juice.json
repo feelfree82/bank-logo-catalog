@@ -1,0 +1,19 @@
+{
+  "id": "us-creative-juice",
+  "country": "US",
+  "name": "Creative Juice",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "fb6b6fc1c64c6512",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-creative-juice/icon.svg?v=cf927a8b2ee381ec",
+      "png": "v1/assets/us/us-creative-juice/icon.png?v=db8385f443abc16a",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

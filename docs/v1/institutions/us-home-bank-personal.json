@@ -1,0 +1,19 @@
+{
+  "id": "us-home-bank-personal",
+  "country": "US",
+  "name": "Home Bank - Personal",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "f419c1fbcd16c2cf",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-home-bank-personal/icon.svg?v=8013d9f8c5163370",
+      "png": "v1/assets/us/us-home-bank-personal/icon.png?v=26fc4c26fcae44e3",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

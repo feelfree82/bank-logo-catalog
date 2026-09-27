@@ -1,0 +1,19 @@
+{
+  "id": "us-independent-bank-mi-one-wallet",
+  "country": "US",
+  "name": "Independent Bank (MI) - ONE Wallet",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "324547aa23208f33",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-independent-bank-mi-one-wallet/icon.svg?v=4df2061be2ee858f",
+      "png": "v1/assets/us/us-independent-bank-mi-one-wallet/icon.png?v=a98a2eaaa8460eec",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

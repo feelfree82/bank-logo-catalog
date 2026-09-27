@@ -1,0 +1,19 @@
+{
+  "id": "us-gulf-winds-federal-credit-union",
+  "country": "US",
+  "name": "Gulf Winds Federal Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "52557f62449c9765",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-gulf-winds-federal-credit-union/icon.svg?v=bc926d7221eca5c8",
+      "png": "v1/assets/us/us-gulf-winds-federal-credit-union/icon.png?v=b719b46579dfa250",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

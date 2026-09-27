@@ -1,0 +1,19 @@
+{
+  "id": "us-zapata-national-bank-business",
+  "country": "US",
+  "name": "Zapata National Bank - Business",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "24452ceb934109fe",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-zapata-national-bank-business/icon.svg?v=7f073a3d22353f43",
+      "png": "v1/assets/us/us-zapata-national-bank-business/icon.png?v=71421e8e125075c7",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

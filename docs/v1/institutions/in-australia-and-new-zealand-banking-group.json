@@ -1,0 +1,22 @@
+{
+  "id": "in-australia-and-new-zealand-banking-group",
+  "country": "IN",
+  "name": "Australia and New Zealand Banking Group",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "efe37b1207fa2819",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-australia-and-new-zealand-banking-group/icon.svg?v=93ab36cad9b88fc6",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-australia-and-new-zealand-banking-group/wordmark.svg?v=2340a83b2ba766ae",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

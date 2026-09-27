@@ -1,0 +1,19 @@
+{
+  "id": "us-first-bank",
+  "country": "US",
+  "name": "First Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "cb8faed985f27253",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-first-bank/icon.svg?v=4d9397ae7749d8ef",
+      "png": "v1/assets/us/us-first-bank/icon.png?v=6c3cf3cda8484fa2",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

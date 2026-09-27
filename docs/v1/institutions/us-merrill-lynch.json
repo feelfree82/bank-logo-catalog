@@ -1,0 +1,19 @@
+{
+  "id": "us-merrill-lynch",
+  "country": "US",
+  "name": "Merrill Lynch",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "e5739b04a7fd1f35",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-merrill-lynch/icon.svg?v=e11c1d9333e77a15",
+      "png": "v1/assets/us/us-merrill-lynch/icon.png?v=d511d1bd5fd19dc7",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

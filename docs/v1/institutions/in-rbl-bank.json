@@ -1,0 +1,22 @@
+{
+  "id": "in-rbl-bank",
+  "country": "IN",
+  "name": "RBL Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "fe7f27e7c589b0f5",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-rbl-bank/icon.svg?v=91b1c41cd13e2d1c",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-rbl-bank/wordmark.svg?v=443c06f0ac62cc6c",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

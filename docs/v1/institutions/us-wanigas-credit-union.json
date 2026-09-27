@@ -1,0 +1,19 @@
+{
+  "id": "us-wanigas-credit-union",
+  "country": "US",
+  "name": "Wanigas Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "071a6a9dbf9af350",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-wanigas-credit-union/icon.svg?v=f0206f96e206cdc5",
+      "png": "v1/assets/us/us-wanigas-credit-union/icon.png?v=da402c222b462b1f",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "us-umb-bank-personal",
+  "country": "US",
+  "name": "UMB Bank - Personal",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "1a7e9ad30914417a",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-umb-bank-personal/icon.svg?v=b392575ba255c0c2",
+      "png": "v1/assets/us/us-umb-bank-personal/icon.png?v=f5c9cbba6c5a1a48",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "in-deutsche-bank",
+  "country": "IN",
+  "name": "Deutsche Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "7edb57bc86a94a69",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-deutsche-bank/icon.svg?v=e931cc1532030a21",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-deutsche-bank/wordmark.svg?v=904fdc902f60066b",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

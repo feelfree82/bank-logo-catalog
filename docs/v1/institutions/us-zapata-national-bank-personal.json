@@ -1,0 +1,19 @@
+{
+  "id": "us-zapata-national-bank-personal",
+  "country": "US",
+  "name": "Zapata National Bank - Personal",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "914e7f5c36084c42",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-zapata-national-bank-personal/icon.svg?v=eb3ee5b2195e3060",
+      "png": "v1/assets/us/us-zapata-national-bank-personal/icon.png?v=71421e8e125075c7",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "us-guardian-credit-union",
+  "country": "US",
+  "name": "Guardian Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "05f76be807351b19",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-guardian-credit-union/icon.svg?v=1ecfa9eb30a62908",
+      "png": "v1/assets/us/us-guardian-credit-union/icon.png?v=9a2b05791a692c22",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

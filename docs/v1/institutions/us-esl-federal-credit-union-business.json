@@ -1,0 +1,19 @@
+{
+  "id": "us-esl-federal-credit-union-business",
+  "country": "US",
+  "name": "ESL Federal Credit Union - Business",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "9c64edeeee039d3d",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-esl-federal-credit-union-business/icon.svg?v=9ee11a543863302e",
+      "png": "v1/assets/us/us-esl-federal-credit-union-business/icon.png?v=18c514f1d10707f8",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

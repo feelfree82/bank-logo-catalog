@@ -1,0 +1,24 @@
+{
+  "id": "in-indusind-bank",
+  "country": "IN",
+  "name": "IndusInd Bank",
+  "official_name": null,
+  "aliases": [
+    "Induslnd Bank"
+  ],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "9f88758685182175",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-indusind-bank/icon.svg?v=b5f4b073bdbe2892",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-indusind-bank/wordmark.svg?v=6e0c706feed06025",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

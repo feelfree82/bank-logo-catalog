@@ -1,0 +1,19 @@
+{
+  "id": "us-new-horizons-credit-union",
+  "country": "US",
+  "name": "New Horizons Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "32899ed9bc0d2902",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-new-horizons-credit-union/icon.svg?v=c5bdc3958ed4fb92",
+      "png": "v1/assets/us/us-new-horizons-credit-union/icon.png?v=9db80dbb9349a6c2",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

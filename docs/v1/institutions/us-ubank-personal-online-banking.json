@@ -1,0 +1,19 @@
+{
+  "id": "us-ubank-personal-online-banking",
+  "country": "US",
+  "name": "UBank - Personal Online Banking",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "44cdf52c00ce966c",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-ubank-personal-online-banking/icon.svg?v=e8402a94c9b9c03d",
+      "png": "v1/assets/us/us-ubank-personal-online-banking/icon.png?v=1ffa450c34c8f9d1",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

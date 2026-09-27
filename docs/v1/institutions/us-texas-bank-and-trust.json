@@ -1,0 +1,19 @@
+{
+  "id": "us-texas-bank-and-trust",
+  "country": "US",
+  "name": "TEXAS BANK AND TRUST",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "e83f313132f3e0fd",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-texas-bank-and-trust/icon.svg?v=974bca9b27751f21",
+      "png": "v1/assets/us/us-texas-bank-and-trust/icon.png?v=07f5d8aeb87cc956",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

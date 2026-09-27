@@ -1,0 +1,19 @@
+{
+  "id": "us-neighbors-credit-union",
+  "country": "US",
+  "name": "Neighbors Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "d282cfc829df15c4",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-neighbors-credit-union/icon.svg?v=6b2c4a66193b45c9",
+      "png": "v1/assets/us/us-neighbors-credit-union/icon.png?v=d15e53b1b2253523",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

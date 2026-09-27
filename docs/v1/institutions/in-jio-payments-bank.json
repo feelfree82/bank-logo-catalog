@@ -1,0 +1,22 @@
+{
+  "id": "in-jio-payments-bank",
+  "country": "IN",
+  "name": "Jio Payments Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "d80b009fddfb2a21",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-jio-payments-bank/icon.svg?v=a0da3fa7de5f274d",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-jio-payments-bank/wordmark.svg?v=68841ad7a8329c91",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

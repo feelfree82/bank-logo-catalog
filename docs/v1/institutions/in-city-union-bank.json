@@ -1,0 +1,22 @@
+{
+  "id": "in-city-union-bank",
+  "country": "IN",
+  "name": "City Union Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "a371a2287fa36571",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-city-union-bank/icon.svg?v=3be08921b9d62ff5",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-city-union-bank/wordmark.svg?v=83ca31ee58bfb468",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

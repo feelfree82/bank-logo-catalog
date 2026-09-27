@@ -1,0 +1,19 @@
+{
+  "id": "us-service-credit-union",
+  "country": "US",
+  "name": "Service Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "342ed3582565ff3e",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-service-credit-union/icon.svg?v=24c2f4c2e856d3bd",
+      "png": "v1/assets/us/us-service-credit-union/icon.png?v=9f5c0c62c665f6a1",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

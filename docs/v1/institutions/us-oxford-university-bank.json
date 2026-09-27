@@ -1,0 +1,19 @@
+{
+  "id": "us-oxford-university-bank",
+  "country": "US",
+  "name": "Oxford University Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "8bcec97f34f776e3",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-oxford-university-bank/icon.svg?v=4693daeab2b4b882",
+      "png": "v1/assets/us/us-oxford-university-bank/icon.png?v=e9fdc2753d660d44",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

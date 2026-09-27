@@ -1,0 +1,22 @@
+{
+  "id": "in-hdfc-bank",
+  "country": "IN",
+  "name": "HDFC Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "d285556b84adbf7a",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-hdfc-bank/icon.svg?v=65966ac1e458d769",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-hdfc-bank/wordmark.svg?v=35bbf031662450d9",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

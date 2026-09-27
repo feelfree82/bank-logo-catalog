@@ -1,0 +1,19 @@
+{
+  "id": "us-ubank-business-online-banking",
+  "country": "US",
+  "name": "UBank - Business Online Banking",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "299296f97eacf225",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-ubank-business-online-banking/icon.svg?v=fcaecc342770914e",
+      "png": "v1/assets/us/us-ubank-business-online-banking/icon.png?v=1ffa450c34c8f9d1",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "us-barclays-bank-us",
+  "country": "US",
+  "name": "Barclays Bank (US)",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "24dac89ecb817b89",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-barclays-bank-us/icon.svg?v=d7f3fcb9affe294d",
+      "png": "v1/assets/us/us-barclays-bank-us/icon.png?v=ed4d0be1a6a52ff7",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

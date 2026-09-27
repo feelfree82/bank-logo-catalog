@@ -1,0 +1,22 @@
+{
+  "id": "in-csb-bank",
+  "country": "IN",
+  "name": "CSB Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "fc4cafeb89450bb3",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-csb-bank/icon.svg?v=98313504d815e13f",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-csb-bank/wordmark.svg?v=28d85dfdd34d0c41",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "us-pinnacle-bank",
+  "country": "US",
+  "name": "Pinnacle Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "83d775f5bc5013e0",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-pinnacle-bank/icon.svg?v=7bf6c54b1a60926e",
+      "png": "v1/assets/us/us-pinnacle-bank/icon.png?v=a991ef1aaa84bcdd",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

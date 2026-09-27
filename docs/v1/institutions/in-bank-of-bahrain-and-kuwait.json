@@ -1,0 +1,22 @@
+{
+  "id": "in-bank-of-bahrain-and-kuwait",
+  "country": "IN",
+  "name": "Bank of Bahrain and Kuwait",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "da1a159b3620fa28",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-bank-of-bahrain-and-kuwait/icon.svg?v=c7546d4128be008c",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-bank-of-bahrain-and-kuwait/wordmark.svg?v=2efc2733b6b3feb5",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

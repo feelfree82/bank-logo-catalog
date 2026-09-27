@@ -1,0 +1,19 @@
+{
+  "id": "us-tyndall-federal-credit-union",
+  "country": "US",
+  "name": "Tyndall Federal Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "34609800c36e78b1",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-tyndall-federal-credit-union/icon.svg?v=2c9e70a2fc700e29",
+      "png": "v1/assets/us/us-tyndall-federal-credit-union/icon.png?v=cc66813c3a177a17",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

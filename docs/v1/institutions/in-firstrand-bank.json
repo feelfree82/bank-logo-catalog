@@ -1,0 +1,22 @@
+{
+  "id": "in-firstrand-bank",
+  "country": "IN",
+  "name": "FirstRand Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "c7a8d80da56e7b4e",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-firstrand-bank/icon.svg?v=eda287463ba7a29a",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-firstrand-bank/wordmark.svg?v=24ab869c8fa20365",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

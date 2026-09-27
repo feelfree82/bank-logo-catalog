@@ -1,0 +1,19 @@
+{
+  "id": "us-paypal",
+  "country": "US",
+  "name": "PayPal",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "7e1f5853c5f88d02",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-paypal/icon.svg?v=390aac96eb2264aa",
+      "png": "v1/assets/us/us-paypal/icon.png?v=b65b70ea824d0fda",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "us-td-bank",
+  "country": "US",
+  "name": "TD Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "8931aef7d29d161a",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-td-bank/icon.svg?v=2aa0f0197e1cbc19",
+      "png": "v1/assets/us/us-td-bank/icon.png?v=ad195075cf55973e",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

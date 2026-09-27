@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "schema_version": 1,
+  "total_records": 765,
+  "referenced_assets": 1530,
+  "countries": {
+    "US": {
+      "records": 693,
+      "search_index_bytes": 81511
+    },
+    "IN": {
+      "records": 72,
+      "search_index_bytes": 7842
+    }
+  }
+}

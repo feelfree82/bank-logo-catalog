@@ -1,0 +1,19 @@
+{
+  "id": "us-infinity-federal-credit-union",
+  "country": "US",
+  "name": "Infinity Federal Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "0b92239d077ee33b",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-infinity-federal-credit-union/icon.svg?v=15e3bae2bf995572",
+      "png": "v1/assets/us/us-infinity-federal-credit-union/icon.png?v=fdd3dd677f9f5f40",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

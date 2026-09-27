@@ -1,0 +1,19 @@
+{
+  "id": "us-mecu-of-baltimore",
+  "country": "US",
+  "name": "MECU of Baltimore",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "9bc2fe5f3b453345",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-mecu-of-baltimore/icon.svg?v=6081bd423a5aa9ff",
+      "png": "v1/assets/us/us-mecu-of-baltimore/icon.png?v=089f467ee664b2e1",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "us-five-star-credit-union",
+  "country": "US",
+  "name": "Five Star Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "df4a08b5e02fbab4",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-five-star-credit-union/icon.svg?v=31295e28f18ca6fc",
+      "png": "v1/assets/us/us-five-star-credit-union/icon.png?v=2719de23f3b522c1",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

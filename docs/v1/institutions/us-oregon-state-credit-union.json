@@ -1,0 +1,19 @@
+{
+  "id": "us-oregon-state-credit-union",
+  "country": "US",
+  "name": "Oregon State Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "91f1df560cbd0ca2",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-oregon-state-credit-union/icon.svg?v=cef5b662cbace9de",
+      "png": "v1/assets/us/us-oregon-state-credit-union/icon.png?v=2f9baa3a8ed7cb28",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

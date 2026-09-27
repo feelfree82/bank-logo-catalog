@@ -1,0 +1,19 @@
+{
+  "id": "us-virginia-credit-union",
+  "country": "US",
+  "name": "Virginia Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "c308ee05aa33121a",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-virginia-credit-union/icon.svg?v=68e84dda86aba248",
+      "png": "v1/assets/us/us-virginia-credit-union/icon.png?v=3a69517c30f6d8a7",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

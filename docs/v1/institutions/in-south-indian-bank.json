@@ -1,0 +1,22 @@
+{
+  "id": "in-south-indian-bank",
+  "country": "IN",
+  "name": "South Indian Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "3b9fe3f06a67e91c",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-south-indian-bank/icon.svg?v=02becc13a5270a42",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-south-indian-bank/wordmark.svg?v=486f944a4435201b",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

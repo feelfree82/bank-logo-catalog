@@ -1,0 +1,22 @@
+{
+  "id": "in-qatar-national-bank",
+  "country": "IN",
+  "name": "Qatar National Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "d89db4056e5b5f74",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-qatar-national-bank/icon.svg?v=0e4d010e71e846d5",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-qatar-national-bank/wordmark.svg?v=683ecf13009afad0",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

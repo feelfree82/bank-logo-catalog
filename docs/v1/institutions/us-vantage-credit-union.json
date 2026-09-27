@@ -1,0 +1,19 @@
+{
+  "id": "us-vantage-credit-union",
+  "country": "US",
+  "name": "Vantage Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "3c214d86c8821db5",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-vantage-credit-union/icon.svg?v=22f38e2298138d28",
+      "png": "v1/assets/us/us-vantage-credit-union/icon.png?v=8a886a855346370c",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "us-truliant-federal-credit-union",
+  "country": "US",
+  "name": "Truliant Federal Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "6386c4acd2fab718",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-truliant-federal-credit-union/icon.svg?v=31fcd4a870a2159c",
+      "png": "v1/assets/us/us-truliant-federal-credit-union/icon.png?v=73b1b8d3d46532ff",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

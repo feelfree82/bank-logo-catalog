@@ -1,0 +1,22 @@
+{
+  "id": "in-bank-of-ceylon",
+  "country": "IN",
+  "name": "Bank of Ceylon",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "c17feb36a6ebb328",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-bank-of-ceylon/icon.svg?v=7c0e03595e0208e3",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-bank-of-ceylon/wordmark.svg?v=8b58572fe19724f6",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

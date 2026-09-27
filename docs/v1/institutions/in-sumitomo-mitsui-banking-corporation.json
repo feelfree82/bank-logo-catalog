@@ -1,0 +1,22 @@
+{
+  "id": "in-sumitomo-mitsui-banking-corporation",
+  "country": "IN",
+  "name": "Sumitomo Mitsui Banking Corporation",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "6d4bbea46e7044d1",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-sumitomo-mitsui-banking-corporation/icon.svg?v=85d17acfe8df8d71",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-sumitomo-mitsui-banking-corporation/wordmark.svg?v=4357e442667f5a91",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

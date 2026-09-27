@@ -1,0 +1,22 @@
+{
+  "id": "in-woori-bank",
+  "country": "IN",
+  "name": "Woori Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "8f7efc5b00d393e9",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-woori-bank/icon.svg?v=195a22216ade2ea9",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-woori-bank/wordmark.svg?v=8331ebaba42437a5",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

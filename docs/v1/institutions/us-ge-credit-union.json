@@ -1,0 +1,19 @@
+{
+  "id": "us-ge-credit-union",
+  "country": "US",
+  "name": "GE Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "95b02be0bcd5db25",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-ge-credit-union/icon.svg?v=0c9cfb3117d41a40",
+      "png": "v1/assets/us/us-ge-credit-union/icon.png?v=b82e476d582d3ec0",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "us-pinnacle-bank-ne-personal",
+  "country": "US",
+  "name": "Pinnacle Bank (NE) - Personal",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "ae1123b6b4abf770",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-pinnacle-bank-ne-personal/icon.svg?v=a2150ae08b310b40",
+      "png": "v1/assets/us/us-pinnacle-bank-ne-personal/icon.png?v=a991ef1aaa84bcdd",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "us-capital-bank-opensky-visa-credit-card",
+  "country": "US",
+  "name": "Capital Bank - OpenSky Visa Credit Card",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "461a63a3b01e7611",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-capital-bank-opensky-visa-credit-card/icon.svg?v=8d978a3c411ed465",
+      "png": "v1/assets/us/us-capital-bank-opensky-visa-credit-card/icon.png?v=cba58c302242f1f2",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

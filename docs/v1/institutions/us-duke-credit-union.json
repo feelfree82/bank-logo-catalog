@@ -1,0 +1,19 @@
+{
+  "id": "us-duke-credit-union",
+  "country": "US",
+  "name": "Duke Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "7d8656700cb9aca7",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-duke-credit-union/icon.svg?v=df820df3263e599f",
+      "png": "v1/assets/us/us-duke-credit-union/icon.png?v=68b1a2030d7216b8",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

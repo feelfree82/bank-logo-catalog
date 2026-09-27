@@ -1,0 +1,19 @@
+{
+  "id": "us-queenstown-bank-personal",
+  "country": "US",
+  "name": "Queenstown Bank - Personal",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "9a7b98e467e49bdf",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-queenstown-bank-personal/icon.svg?v=44b63930f98972a1",
+      "png": "v1/assets/us/us-queenstown-bank-personal/icon.png?v=164469570ab9a33d",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

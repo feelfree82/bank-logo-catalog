@@ -1,0 +1,19 @@
+{
+  "id": "us-unitus-community-credit-union",
+  "country": "US",
+  "name": "Unitus Community Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "4d4ff5a3d83f4957",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-unitus-community-credit-union/icon.svg?v=977a98033c066247",
+      "png": "v1/assets/us/us-unitus-community-credit-union/icon.png?v=81efee4e964d952c",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

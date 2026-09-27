@@ -1,0 +1,19 @@
+{
+  "id": "us-united-community-bank-ia-personal",
+  "country": "US",
+  "name": "United Community Bank (IA) - Personal",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "4b4c50d2e88e7b4c",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-united-community-bank-ia-personal/icon.svg?v=768e2d64e3864627",
+      "png": "v1/assets/us/us-united-community-bank-ia-personal/icon.png?v=fbf7b98c6dbdd6cc",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "us-mountain-valley-bank-dunlap-tn",
+  "country": "US",
+  "name": "Mountain Valley Bank (Dunlap, TN)",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "e7770da385e42011",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-mountain-valley-bank-dunlap-tn/icon.svg?v=e2cc6ce9a0dc80b3",
+      "png": "v1/assets/us/us-mountain-valley-bank-dunlap-tn/icon.png?v=23298b1e1a4f35aa",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

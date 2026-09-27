@@ -1,0 +1,19 @@
+{
+  "id": "us-central-bank-mo-business",
+  "country": "US",
+  "name": "Central Bank (MO) - Business",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "7ce366d29cd6261f",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-central-bank-mo-business/icon.svg?v=ea1b2e52a15e308f",
+      "png": "v1/assets/us/us-central-bank-mo-business/icon.png?v=3bd78d587a86bd84",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

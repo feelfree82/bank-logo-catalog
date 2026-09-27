@@ -1,0 +1,19 @@
+{
+  "id": "us-robinhood",
+  "country": "US",
+  "name": "Robinhood",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "56c147356e27f9b9",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-robinhood/icon.svg?v=a9739e26409b2f92",
+      "png": "v1/assets/us/us-robinhood/icon.png?v=d1e1ec1876f2b86d",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

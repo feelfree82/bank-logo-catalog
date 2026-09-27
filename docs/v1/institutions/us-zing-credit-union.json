@@ -1,0 +1,19 @@
+{
+  "id": "us-zing-credit-union",
+  "country": "US",
+  "name": "Zing Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "6dc82f0633a4d0cc",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-zing-credit-union/icon.svg?v=65ae725d853cdb63",
+      "png": "v1/assets/us/us-zing-credit-union/icon.png?v=963016d98ce84b79",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

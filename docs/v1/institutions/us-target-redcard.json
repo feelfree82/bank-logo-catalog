@@ -1,0 +1,19 @@
+{
+  "id": "us-target-redcard",
+  "country": "US",
+  "name": "Target REDCard",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "c335df256cde0610",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-target-redcard/icon.svg?v=eb40654af4d966f2",
+      "png": "v1/assets/us/us-target-redcard/icon.png?v=2727684d546a9933",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

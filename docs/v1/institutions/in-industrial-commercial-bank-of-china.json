@@ -1,0 +1,22 @@
+{
+  "id": "in-industrial-commercial-bank-of-china",
+  "country": "IN",
+  "name": "Industrial & Commercial Bank of China",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "4ff2bb746164ac25",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-industrial-commercial-bank-of-china/icon.svg?v=55d3333d30089b9d",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-industrial-commercial-bank-of-china/wordmark.svg?v=351c912daa002df8",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

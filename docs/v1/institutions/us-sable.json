@@ -1,0 +1,19 @@
+{
+  "id": "us-sable",
+  "country": "US",
+  "name": "Sable",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "f6fa95ebe7b6ac59",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-sable/icon.svg?v=01251bc113e18bdd",
+      "png": "v1/assets/us/us-sable/icon.png?v=f737c65fa8f85b5a",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

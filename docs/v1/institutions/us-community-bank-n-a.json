@@ -1,0 +1,19 @@
+{
+  "id": "us-community-bank-n-a",
+  "country": "US",
+  "name": "Community Bank N.A.",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "34c781d85df99e7d",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-community-bank-n-a/icon.svg?v=ea6b5856f2fbcba7",
+      "png": "v1/assets/us/us-community-bank-n-a/icon.png?v=8e630a0559aceb38",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

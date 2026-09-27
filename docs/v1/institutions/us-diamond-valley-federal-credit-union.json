@@ -1,0 +1,19 @@
+{
+  "id": "us-diamond-valley-federal-credit-union",
+  "country": "US",
+  "name": "Diamond Valley Federal Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "e4915c8205c18fd8",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-diamond-valley-federal-credit-union/icon.svg?v=10a1e86dae7421e0",
+      "png": "v1/assets/us/us-diamond-valley-federal-credit-union/icon.png?v=c08f82b75eda0705",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

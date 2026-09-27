@@ -1,0 +1,19 @@
+{
+  "id": "us-veridian-credit-union",
+  "country": "US",
+  "name": "Veridian Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "c4e23c8511513ee4",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-veridian-credit-union/icon.svg?v=9600c037b4066d4b",
+      "png": "v1/assets/us/us-veridian-credit-union/icon.png?v=f44342a9eb425d8b",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

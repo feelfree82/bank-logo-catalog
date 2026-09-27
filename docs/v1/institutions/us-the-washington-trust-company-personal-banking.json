@@ -1,0 +1,19 @@
+{
+  "id": "us-the-washington-trust-company-personal-banking",
+  "country": "US",
+  "name": "The Washington Trust Company - Personal Banking",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "dd26e95e311ed201",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-the-washington-trust-company-personal-banking/icon.svg?v=8b344139215a1da6",
+      "png": "v1/assets/us/us-the-washington-trust-company-personal-banking/icon.png?v=901ced24c0742ef4",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

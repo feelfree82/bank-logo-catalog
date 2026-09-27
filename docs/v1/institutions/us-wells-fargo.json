@@ -1,0 +1,19 @@
+{
+  "id": "us-wells-fargo",
+  "country": "US",
+  "name": "Wells Fargo",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "6d574149f75ac454",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-wells-fargo/icon.svg?v=b0cbf9375b9c31e8",
+      "png": "v1/assets/us/us-wells-fargo/icon.png?v=9018f4d4e8ad8d00",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

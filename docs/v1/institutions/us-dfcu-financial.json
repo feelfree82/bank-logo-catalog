@@ -1,0 +1,19 @@
+{
+  "id": "us-dfcu-financial",
+  "country": "US",
+  "name": "DFCU Financial",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "490be7f38f8fba70",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-dfcu-financial/icon.svg?v=596e84f06dff69f7",
+      "png": "v1/assets/us/us-dfcu-financial/icon.png?v=b43fde71a0ab1262",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

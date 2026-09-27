@@ -1,0 +1,22 @@
+{
+  "id": "in-bnp-paribas",
+  "country": "IN",
+  "name": "BNP Paribas",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "e2683ca9dedec374",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-bnp-paribas/icon.svg?v=88b735e6196acb90",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-bnp-paribas/wordmark.svg?v=05fa98b3d0a45730",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

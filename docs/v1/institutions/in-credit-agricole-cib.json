@@ -1,0 +1,24 @@
+{
+  "id": "in-credit-agricole-cib",
+  "country": "IN",
+  "name": "Crédit Agricole CIB",
+  "official_name": null,
+  "aliases": [
+    "Crédit Agricole Corporate and Investment Bank"
+  ],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "4e044dc6d4df2b8b",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-credit-agricole-cib/icon.svg?v=3f7ce89175b9e7b2",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-credit-agricole-cib/wordmark.svg?v=880df2fea1aff7b4",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

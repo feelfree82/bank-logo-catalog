@@ -1,0 +1,19 @@
+{
+  "id": "us-bank-of-america-money-network",
+  "country": "US",
+  "name": "Bank of America - Money Network",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "26a16803b1ab52df",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-bank-of-america-money-network/icon.svg?v=b451d6d7fbf50792",
+      "png": "v1/assets/us/us-bank-of-america-money-network/icon.png?v=10be87096c160303",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

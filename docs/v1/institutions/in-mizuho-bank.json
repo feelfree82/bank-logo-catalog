@@ -1,0 +1,24 @@
+{
+  "id": "in-mizuho-bank",
+  "country": "IN",
+  "name": "Mizuho Bank",
+  "official_name": null,
+  "aliases": [
+    "Mizuho Corporate Bank"
+  ],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "6c17b09a5be8556b",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-mizuho-bank/icon.svg?v=7f13975cb9138572",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-mizuho-bank/wordmark.svg?v=b0ad365bc60e1c08",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

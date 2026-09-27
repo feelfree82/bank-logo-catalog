@@ -1,0 +1,22 @@
+{
+  "id": "in-first-abu-dhabi-bank",
+  "country": "IN",
+  "name": "First Abu Dhabi Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "53ebe316241e64cb",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-first-abu-dhabi-bank/icon.svg?v=e5e26afc232bde24",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-first-abu-dhabi-bank/wordmark.svg?v=bc69d9340e31924f",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

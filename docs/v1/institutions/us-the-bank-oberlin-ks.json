@@ -1,0 +1,19 @@
+{
+  "id": "us-the-bank-oberlin-ks",
+  "country": "US",
+  "name": "The Bank (Oberlin, KS)",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "23abed8da028f891",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-the-bank-oberlin-ks/icon.svg?v=c59518e81f71f4cb",
+      "png": "v1/assets/us/us-the-bank-oberlin-ks/icon.png?v=11d8ded9092d7e8c",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "us-keesler-federal-credit-union",
+  "country": "US",
+  "name": "Keesler Federal Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "ef0a0df31aa76c99",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-keesler-federal-credit-union/icon.svg?v=981d98fc4d7372a2",
+      "png": "v1/assets/us/us-keesler-federal-credit-union/icon.png?v=602abf473578b428",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

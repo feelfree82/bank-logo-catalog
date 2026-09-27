@@ -1,0 +1,22 @@
+{
+  "id": "in-axis-bank",
+  "country": "IN",
+  "name": "Axis bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "835d3b50b3b49442",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-axis-bank/icon.svg?v=6c5aaf600464f4b4",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-axis-bank/wordmark.svg?v=c8092d4782cc940e",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

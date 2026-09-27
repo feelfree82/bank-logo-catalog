@@ -1,0 +1,19 @@
+{
+  "id": "us-jelli",
+  "country": "US",
+  "name": "Jelli",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "4a201997a0c50851",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-jelli/icon.svg?v=8a4fedee8b2031a4",
+      "png": "v1/assets/us/us-jelli/icon.png?v=440b0a55f304806a",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

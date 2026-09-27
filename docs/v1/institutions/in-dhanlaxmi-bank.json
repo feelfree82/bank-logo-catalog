@@ -1,0 +1,22 @@
+{
+  "id": "in-dhanlaxmi-bank",
+  "country": "IN",
+  "name": "Dhanlaxmi Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "c8336def0b18be69",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-dhanlaxmi-bank/icon.svg?v=9d495d0ade911e60",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-dhanlaxmi-bank/wordmark.svg?v=cd819df1eb8de441",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

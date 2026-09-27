@@ -1,0 +1,19 @@
+{
+  "id": "us-trustmark-mortgage",
+  "country": "US",
+  "name": "Trustmark - Mortgage",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "3305160017b35fd3",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-trustmark-mortgage/icon.svg?v=1b119c8cef30fc48",
+      "png": "v1/assets/us/us-trustmark-mortgage/icon.png?v=33fccfedd4096e88",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

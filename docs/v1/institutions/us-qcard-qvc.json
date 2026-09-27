@@ -1,0 +1,19 @@
+{
+  "id": "us-qcard-qvc",
+  "country": "US",
+  "name": "QCard (QVC)",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "9097e497cb7a7a59",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-qcard-qvc/icon.svg?v=016c472b8a195e99",
+      "png": "v1/assets/us/us-qcard-qvc/icon.png?v=bf9445672d5c2f8a",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

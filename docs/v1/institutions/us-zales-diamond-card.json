@@ -1,0 +1,19 @@
+{
+  "id": "us-zales-diamond-card",
+  "country": "US",
+  "name": "Zales Diamond Card",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "cc4fef7fa00335fa",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-zales-diamond-card/icon.svg?v=02751fe5401dfd6d",
+      "png": "v1/assets/us/us-zales-diamond-card/icon.png?v=822d02d9e4cd1bb8",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

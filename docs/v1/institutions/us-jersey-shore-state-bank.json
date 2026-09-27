@@ -1,0 +1,19 @@
+{
+  "id": "us-jersey-shore-state-bank",
+  "country": "US",
+  "name": "Jersey Shore State Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "9235c3e599d3a6c0",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-jersey-shore-state-bank/icon.svg?v=b20b28b495640395",
+      "png": "v1/assets/us/us-jersey-shore-state-bank/icon.png?v=32d62ccb953a18bd",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

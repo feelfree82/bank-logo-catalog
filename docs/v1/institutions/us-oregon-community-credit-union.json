@@ -1,0 +1,19 @@
+{
+  "id": "us-oregon-community-credit-union",
+  "country": "US",
+  "name": "Oregon Community Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "24eae2bab0456fd7",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-oregon-community-credit-union/icon.svg?v=269b9e9dd1e1c265",
+      "png": "v1/assets/us/us-oregon-community-credit-union/icon.png?v=5b1ff67a60473b89",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

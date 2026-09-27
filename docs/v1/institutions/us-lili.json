@@ -1,0 +1,19 @@
+{
+  "id": "us-lili",
+  "country": "US",
+  "name": "Lili",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "d100de8c68588524",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-lili/icon.svg?v=7c277f843ef5c63b",
+      "png": "v1/assets/us/us-lili/icon.png?v=58bcdc488c6efd0a",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

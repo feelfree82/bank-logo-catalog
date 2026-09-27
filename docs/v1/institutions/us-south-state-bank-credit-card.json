@@ -1,0 +1,19 @@
+{
+  "id": "us-south-state-bank-credit-card",
+  "country": "US",
+  "name": "South State Bank - Credit Card",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "4ec129ef1a4efe29",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-south-state-bank-credit-card/icon.svg?v=daac9634e4d267c9",
+      "png": "v1/assets/us/us-south-state-bank-credit-card/icon.png?v=0f36bcd180a3d7d7",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

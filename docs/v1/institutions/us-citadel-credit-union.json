@@ -1,0 +1,19 @@
+{
+  "id": "us-citadel-credit-union",
+  "country": "US",
+  "name": "Citadel Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "98f007e28a755617",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-citadel-credit-union/icon.svg?v=d56a38b8263649e1",
+      "png": "v1/assets/us/us-citadel-credit-union/icon.png?v=618664c09f3fbc3d",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

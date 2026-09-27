@@ -1,0 +1,19 @@
+{
+  "id": "us-national-bank-of-arizona-personal",
+  "country": "US",
+  "name": "National Bank of Arizona - Personal",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "071b7e0847255cd9",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-national-bank-of-arizona-personal/icon.svg?v=7066881580cf5cee",
+      "png": "v1/assets/us/us-national-bank-of-arizona-personal/icon.png?v=4a527e464bedb848",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

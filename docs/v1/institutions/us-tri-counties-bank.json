@@ -1,0 +1,19 @@
+{
+  "id": "us-tri-counties-bank",
+  "country": "US",
+  "name": "Tri Counties Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "39196acfd7c76acc",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-tri-counties-bank/icon.svg?v=e7659c6296db3523",
+      "png": "v1/assets/us/us-tri-counties-bank/icon.png?v=944e7eddfb3808d2",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

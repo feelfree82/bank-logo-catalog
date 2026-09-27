@@ -1,0 +1,19 @@
+{
+  "id": "us-redwood-credit-union",
+  "country": "US",
+  "name": "Redwood Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "71a2dce5a592ca25",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-redwood-credit-union/icon.svg?v=ce362bec50a2d28f",
+      "png": "v1/assets/us/us-redwood-credit-union/icon.png?v=7f6d4ce27fd950db",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

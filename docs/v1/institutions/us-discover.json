@@ -1,0 +1,19 @@
+{
+  "id": "us-discover",
+  "country": "US",
+  "name": "Discover",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "86e923eb7e6a4a43",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-discover/icon.svg?v=34f026ebeca0d4a6",
+      "png": "v1/assets/us/us-discover/icon.png?v=9f0bacaafc88b153",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "us-economic-impact-payment-card-enabled-by-metabank-money-network",
+  "country": "US",
+  "name": "Economic Impact Payment Card (Enabled by MetaBank & Money Network)",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "691dc6b4c7e0917a",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-economic-impact-payment-card-enabled-by-metabank-money-network/icon.svg?v=88106cc0ee54dc33",
+      "png": "v1/assets/us/us-economic-impact-payment-card-enabled-by-metabank-money-network/icon.png?v=35e7fd17401b221a",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

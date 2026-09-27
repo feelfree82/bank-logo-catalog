@@ -1,0 +1,19 @@
+{
+  "id": "us-axos-bank",
+  "country": "US",
+  "name": "Axos Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "ffd537f7d05bf004",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-axos-bank/icon.svg?v=cb682392eb0a85e7",
+      "png": "v1/assets/us/us-axos-bank/icon.png?v=55f13523d9095f9f",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

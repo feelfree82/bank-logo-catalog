@@ -1,0 +1,19 @@
+{
+  "id": "us-ttcu-federal-credit-union",
+  "country": "US",
+  "name": "TTCU Federal Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "3a248acb6e1e40ad",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-ttcu-federal-credit-union/icon.svg?v=ad864e906f6cd0e6",
+      "png": "v1/assets/us/us-ttcu-federal-credit-union/icon.png?v=4ea0fa600d8589dd",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

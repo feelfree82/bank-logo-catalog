@@ -1,0 +1,22 @@
+{
+  "id": "in-fino-payments-bank",
+  "country": "IN",
+  "name": "FINO Payments Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "c0cdde19f8652ec2",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-fino-payments-bank/icon.svg?v=0630b3f246ae8341",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-fino-payments-bank/wordmark.svg?v=80446be3433c71e3",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

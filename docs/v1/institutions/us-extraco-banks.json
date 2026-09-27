@@ -1,0 +1,19 @@
+{
+  "id": "us-extraco-banks",
+  "country": "US",
+  "name": "Extraco Banks",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "0c48b0a90bf5fa05",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-extraco-banks/icon.svg?v=3a4e917512420038",
+      "png": "v1/assets/us/us-extraco-banks/icon.png?v=c803d8e88fc9e297",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

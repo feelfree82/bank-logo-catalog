@@ -1,0 +1,22 @@
+{
+  "id": "in-sberbank",
+  "country": "IN",
+  "name": "Sberbank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "b24c58cf4aa76600",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-sberbank/icon.svg?v=e0ea0f07b338f824",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-sberbank/wordmark.svg?v=ed773ced260a3b46",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "required_record_fields": [
+    "id",
+    "country",
+    "name",
+    "aliases",
+    "status",
+    "logos",
+    "logo_revision"
+  ],
+  "logo_variants": [
+    "icon",
+    "wordmark"
+  ],
+  "status_values": [
+    "active",
+    "active_candidate",
+    "inactive",
+    "historical",
+    "unverified"
+  ]
+}

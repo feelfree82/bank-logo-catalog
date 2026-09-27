@@ -1,0 +1,19 @@
+{
+  "id": "us-bankmobile-vibe",
+  "country": "US",
+  "name": "BankMobile VIBE",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "65f4461d0af72fad",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-bankmobile-vibe/icon.svg?v=2b0c86b1006ffc42",
+      "png": "v1/assets/us/us-bankmobile-vibe/icon.png?v=e4ba2f153f7927e0",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

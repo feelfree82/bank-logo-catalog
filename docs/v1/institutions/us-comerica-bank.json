@@ -1,0 +1,19 @@
+{
+  "id": "us-comerica-bank",
+  "country": "US",
+  "name": "Comerica Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "23713d6d91b5cb65",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-comerica-bank/icon.svg?v=b2d3ff3080731f0e",
+      "png": "v1/assets/us/us-comerica-bank/icon.png?v=58923b90fe5f016e",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

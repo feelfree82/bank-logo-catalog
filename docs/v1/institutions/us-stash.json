@@ -1,0 +1,19 @@
+{
+  "id": "us-stash",
+  "country": "US",
+  "name": "Stash",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "57620fd48f51a6b3",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-stash/icon.svg?v=8cefb4375f515d14",
+      "png": "v1/assets/us/us-stash/icon.png?v=0feef91f0c7de692",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

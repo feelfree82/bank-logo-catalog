@@ -1,0 +1,19 @@
+{
+  "id": "us-ornl-federal-credit-union",
+  "country": "US",
+  "name": "ORNL Federal Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "578e2a97b6e1ee77",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-ornl-federal-credit-union/icon.svg?v=38f188acd5c61074",
+      "png": "v1/assets/us/us-ornl-federal-credit-union/icon.png?v=b4c62402b34fb7df",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

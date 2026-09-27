@@ -1,0 +1,22 @@
+{
+  "id": "in-indian-bank",
+  "country": "IN",
+  "name": "Indian Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "998a81f86bbd3460",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-indian-bank/icon.svg?v=05df4b736da5def2",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-indian-bank/wordmark.svg?v=f7e1bed69711c5dc",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

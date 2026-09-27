@@ -1,0 +1,19 @@
+{
+  "id": "us-m-t-bank",
+  "country": "US",
+  "name": "M&T Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "7b2b83246f0dcd9f",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-m-t-bank/icon.svg?v=ce2c2b210ba9b594",
+      "png": "v1/assets/us/us-m-t-bank/icon.png?v=86012e27444abf5a",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

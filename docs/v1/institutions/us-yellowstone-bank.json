@@ -1,0 +1,19 @@
+{
+  "id": "us-yellowstone-bank",
+  "country": "US",
+  "name": "Yellowstone Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "903b1947a6ea194b",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-yellowstone-bank/icon.svg?v=cd84ce63d6a560d2",
+      "png": "v1/assets/us/us-yellowstone-bank/icon.png?v=eb20ccf75ea10b50",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

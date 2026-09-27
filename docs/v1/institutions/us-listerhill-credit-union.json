@@ -1,0 +1,19 @@
+{
+  "id": "us-listerhill-credit-union",
+  "country": "US",
+  "name": "Listerhill Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "a2f2a77b04b7b63d",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-listerhill-credit-union/icon.svg?v=681eee2a7e1cd7b6",
+      "png": "v1/assets/us/us-listerhill-credit-union/icon.png?v=ab9daee1cc43bda0",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

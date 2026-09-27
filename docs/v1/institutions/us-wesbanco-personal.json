@@ -1,0 +1,19 @@
+{
+  "id": "us-wesbanco-personal",
+  "country": "US",
+  "name": "WesBanco - Personal",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "48071086bccebe3f",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-wesbanco-personal/icon.svg?v=4d9eeff41c4da2fe",
+      "png": "v1/assets/us/us-wesbanco-personal/icon.png?v=11267a31603d0e4a",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

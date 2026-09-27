@@ -1,0 +1,19 @@
+{
+  "id": "us-emprise-bank-personal",
+  "country": "US",
+  "name": "Emprise Bank - Personal",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "0810ab9667893a82",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-emprise-bank-personal/icon.svg?v=99fd128f9d538c70",
+      "png": "v1/assets/us/us-emprise-bank-personal/icon.png?v=d649155451d8ae2b",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

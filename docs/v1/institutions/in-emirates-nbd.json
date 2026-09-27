@@ -1,0 +1,22 @@
+{
+  "id": "in-emirates-nbd",
+  "country": "IN",
+  "name": "Emirates NBD",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "05b5d850d616b37e",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-emirates-nbd/icon.svg?v=8ac4b1babeace8ee",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-emirates-nbd/wordmark.svg?v=5996c5321a2b1cbc",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

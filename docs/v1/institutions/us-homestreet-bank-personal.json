@@ -1,0 +1,19 @@
+{
+  "id": "us-homestreet-bank-personal",
+  "country": "US",
+  "name": "HomeStreet Bank - Personal",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "fc9bd3113de55510",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-homestreet-bank-personal/icon.svg?v=c8a65278c8c9e5ee",
+      "png": "v1/assets/us/us-homestreet-bank-personal/icon.png?v=a32975459f26a39c",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

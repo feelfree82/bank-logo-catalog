@@ -1,0 +1,19 @@
+{
+  "id": "us-academy-bank-personal",
+  "country": "US",
+  "name": "Academy Bank - Personal",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "7da48387c0107a6f",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-academy-bank-personal/icon.svg?v=cdcad935c81eeffe",
+      "png": "v1/assets/us/us-academy-bank-personal/icon.png?v=e6fee905048d0796",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

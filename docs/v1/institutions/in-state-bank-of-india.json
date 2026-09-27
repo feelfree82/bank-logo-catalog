@@ -1,0 +1,22 @@
+{
+  "id": "in-state-bank-of-india",
+  "country": "IN",
+  "name": "State Bank of India",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "05072785f933fd08",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-state-bank-of-india/icon.svg?v=6de9a0dd8dac995e",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-state-bank-of-india/wordmark.svg?v=506cb886ecfc07d1",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "us-ent-credit-union",
+  "country": "US",
+  "name": "Ent Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "0f7b4cb480f3e5b0",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-ent-credit-union/icon.svg?v=11a50098564de586",
+      "png": "v1/assets/us/us-ent-credit-union/icon.png?v=692cf6db574ca5bc",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

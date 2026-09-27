@@ -1,0 +1,22 @@
+{
+  "id": "in-societe-generale",
+  "country": "IN",
+  "name": "Société Générale",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "510cda10cfe119b0",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-societe-generale/icon.svg?v=6eec228a9cf1df18",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-societe-generale/wordmark.svg?v=1648243dcea416d9",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

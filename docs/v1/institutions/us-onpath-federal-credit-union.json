@@ -1,0 +1,19 @@
+{
+  "id": "us-onpath-federal-credit-union",
+  "country": "US",
+  "name": "OnPath Federal Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "0db772a09ef2500b",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-onpath-federal-credit-union/icon.svg?v=518435c4b5d7e1a1",
+      "png": "v1/assets/us/us-onpath-federal-credit-union/icon.png?v=ca8312761d74e0b1",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

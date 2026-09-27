@@ -1,0 +1,22 @@
+{
+  "id": "in-mufg-bank",
+  "country": "IN",
+  "name": "MUFG Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "590eb3d8c896575c",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-mufg-bank/icon.svg?v=602df2c7d4d848ed",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-mufg-bank/wordmark.svg?v=3e4a2e23f23c4c94",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

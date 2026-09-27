@@ -1,0 +1,24 @@
+{
+  "id": "in-union-bank-of-india",
+  "country": "IN",
+  "name": "Union Bank of India",
+  "official_name": null,
+  "aliases": [
+    "Union Bank"
+  ],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "c8b4e4c79b1ae689",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-union-bank-of-india/icon.svg?v=d0005607395bdef9",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-union-bank-of-india/wordmark.svg?v=33500c832528619b",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

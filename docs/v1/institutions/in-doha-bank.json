@@ -1,0 +1,22 @@
+{
+  "id": "in-doha-bank",
+  "country": "IN",
+  "name": "Doha Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "7e46c9451fa36062",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-doha-bank/icon.svg?v=c6f479657ef2e47c",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-doha-bank/wordmark.svg?v=fb48fbf8e514a696",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

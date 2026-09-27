@@ -1,0 +1,19 @@
+{
+  "id": "us-amegy-bank-of-texas-business",
+  "country": "US",
+  "name": "Amegy Bank of Texas - Business",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "f469f6862b6fb773",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-amegy-bank-of-texas-business/icon.svg?v=2db34a349cabcddd",
+      "png": "v1/assets/us/us-amegy-bank-of-texas-business/icon.png?v=cce212d7ffaecd99",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

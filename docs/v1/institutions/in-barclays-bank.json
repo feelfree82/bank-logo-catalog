@@ -1,0 +1,22 @@
+{
+  "id": "in-barclays-bank",
+  "country": "IN",
+  "name": "Barclays Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "bank",
+  "status": "active_candidate",
+  "logo_revision": "275a904d8255d78c",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/in/in-barclays-bank/icon.svg?v=0020babf0e704932",
+      "artwork_type": "vector"
+    },
+    "wordmark": {
+      "svg": "v1/assets/in/in-barclays-bank/wordmark.svg?v=462eb700e87d38e4",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "visual_pair_checked_provenance_unverified"
+}

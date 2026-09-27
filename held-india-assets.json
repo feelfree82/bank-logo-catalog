@@ -1,0 +1,25 @@
+{
+  "generated_at": "2026-09-28",
+  "held": [
+    {
+      "source_name": "Abu Dhabi Commercial Bank",
+      "reason": "not_on_current_rbi_foreign_bank_list"
+    },
+    {
+      "source_name": "Credit Suisse",
+      "reason": "historical_status_requires_review"
+    },
+    {
+      "source_name": "Krung Thai Bank",
+      "reason": "not_on_current_rbi_foreign_bank_list"
+    },
+    {
+      "source_name": "Paytm Payments Bank",
+      "reason": "inactive_or_cancelled_status_requires_review"
+    },
+    {
+      "source_name": "Westpac",
+      "reason": "not_on_current_rbi_foreign_bank_list"
+    }
+  ]
+}

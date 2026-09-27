@@ -1,0 +1,19 @@
+{
+  "id": "us-westfield-bank",
+  "country": "US",
+  "name": "Westfield Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "91e307789477225a",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-westfield-bank/icon.svg?v=fa2c2c6e559e5552",
+      "png": "v1/assets/us/us-westfield-bank/icon.png?v=28c3df492990f531",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

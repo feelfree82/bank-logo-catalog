@@ -1,0 +1,19 @@
+{
+  "id": "us-interbank-personal",
+  "country": "US",
+  "name": "InterBank - Personal",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "d2d370ef175b1c97",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-interbank-personal/icon.svg?v=f8e394f37091a3d1",
+      "png": "v1/assets/us/us-interbank-personal/icon.png?v=1d848efcccc3b638",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

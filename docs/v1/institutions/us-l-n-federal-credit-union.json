@@ -1,0 +1,19 @@
+{
+  "id": "us-l-n-federal-credit-union",
+  "country": "US",
+  "name": "L&N Federal Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "18f300dda33dc7c9",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-l-n-federal-credit-union/icon.svg?v=f501530c7fdc1e1d",
+      "png": "v1/assets/us/us-l-n-federal-credit-union/icon.png?v=724d1300d249e912",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

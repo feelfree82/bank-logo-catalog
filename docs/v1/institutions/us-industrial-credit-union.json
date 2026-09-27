@@ -1,0 +1,19 @@
+{
+  "id": "us-industrial-credit-union",
+  "country": "US",
+  "name": "Industrial Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "ac026e990ee567bd",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-industrial-credit-union/icon.svg?v=a78672bd9c216575",
+      "png": "v1/assets/us/us-industrial-credit-union/icon.png?v=e6b505a7be8b01ff",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

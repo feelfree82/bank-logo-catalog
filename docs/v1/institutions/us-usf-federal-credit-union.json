@@ -1,0 +1,19 @@
+{
+  "id": "us-usf-federal-credit-union",
+  "country": "US",
+  "name": "USF Federal Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "edf3636d2bd6f38a",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-usf-federal-credit-union/icon.svg?v=68ad2264bc4ae1a4",
+      "png": "v1/assets/us/us-usf-federal-credit-union/icon.png?v=8f5c4824643d02cb",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

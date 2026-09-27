@@ -1,0 +1,19 @@
+{
+  "id": "us-first-united-bank",
+  "country": "US",
+  "name": "First United Bank",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "233fc8ff67f80a25",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-first-united-bank/icon.svg?v=6aec907936033bd9",
+      "png": "v1/assets/us/us-first-united-bank/icon.png?v=72a2c2f25fae1bb1",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

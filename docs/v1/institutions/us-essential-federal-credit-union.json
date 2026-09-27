@@ -1,0 +1,19 @@
+{
+  "id": "us-essential-federal-credit-union",
+  "country": "US",
+  "name": "Essential Federal Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "3e157f43cf2fa9ef",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-essential-federal-credit-union/icon.svg?v=18b0592cc19fb5a3",
+      "png": "v1/assets/us/us-essential-federal-credit-union/icon.png?v=33d4865443694ca7",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

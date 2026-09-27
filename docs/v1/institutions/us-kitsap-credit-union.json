@@ -1,0 +1,19 @@
+{
+  "id": "us-kitsap-credit-union",
+  "country": "US",
+  "name": "Kitsap Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "41a16b8fe52e25d0",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-kitsap-credit-union/icon.svg?v=62b3e3fbbc7a10e9",
+      "png": "v1/assets/us/us-kitsap-credit-union/icon.png?v=c7d852057608ae83",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

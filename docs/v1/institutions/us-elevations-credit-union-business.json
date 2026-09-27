@@ -1,0 +1,19 @@
+{
+  "id": "us-elevations-credit-union-business",
+  "country": "US",
+  "name": "Elevations Credit Union - Business",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "b3065a821ff175d0",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-elevations-credit-union-business/icon.svg?v=2b7640a722ed51d1",
+      "png": "v1/assets/us/us-elevations-credit-union-business/icon.png?v=58d66ca22f4e6d03",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

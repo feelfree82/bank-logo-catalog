@@ -1,0 +1,19 @@
+{
+  "id": "us-john-hancock-retirement-plan-services",
+  "country": "US",
+  "name": "John Hancock - Retirement Plan Services",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "6020a6044742848b",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-john-hancock-retirement-plan-services/icon.svg?v=17647faad4ae3740",
+      "png": "v1/assets/us/us-john-hancock-retirement-plan-services/icon.png?v=d4ed630dcbb79474",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

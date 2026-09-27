@@ -1,0 +1,19 @@
+{
+  "id": "us-wings-financial-credit-union",
+  "country": "US",
+  "name": "Wings Financial Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "8b24a0c48aca817f",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-wings-financial-credit-union/icon.svg?v=1c320ff812cfd20f",
+      "png": "v1/assets/us/us-wings-financial-credit-union/icon.png?v=fad1740d5b1f7f38",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

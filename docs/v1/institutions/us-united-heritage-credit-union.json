@@ -1,0 +1,19 @@
+{
+  "id": "us-united-heritage-credit-union",
+  "country": "US",
+  "name": "United Heritage Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "7aa9a44190f51003",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-united-heritage-credit-union/icon.svg?v=0681c0df55185383",
+      "png": "v1/assets/us/us-united-heritage-credit-union/icon.png?v=6eb8d2302f7cd90b",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "us-founders-federal-credit-union",
+  "country": "US",
+  "name": "Founders Federal Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "2eb65ed74001a248",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-founders-federal-credit-union/icon.svg?v=248784f7fb8d3dd2",
+      "png": "v1/assets/us/us-founders-federal-credit-union/icon.png?v=fe18cebbb0e04f2e",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

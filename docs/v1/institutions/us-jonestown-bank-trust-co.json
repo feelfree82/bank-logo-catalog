@@ -1,0 +1,19 @@
+{
+  "id": "us-jonestown-bank-trust-co",
+  "country": "US",
+  "name": "Jonestown Bank & Trust Co.",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "ac89d7ab73f72afe",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-jonestown-bank-trust-co/icon.svg?v=77ea9c0aec105c87",
+      "png": "v1/assets/us/us-jonestown-bank-trust-co/icon.png?v=02a40ea421d44be2",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

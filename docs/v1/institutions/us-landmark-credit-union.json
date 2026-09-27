@@ -1,0 +1,19 @@
+{
+  "id": "us-landmark-credit-union",
+  "country": "US",
+  "name": "Landmark Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "972aa91d11344718",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-landmark-credit-union/icon.svg?v=6cd69c05b28c6679",
+      "png": "v1/assets/us/us-landmark-credit-union/icon.png?v=70e769ad34c796da",
+      "artwork_type": "vector"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}

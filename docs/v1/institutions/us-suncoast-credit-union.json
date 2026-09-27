@@ -1,0 +1,19 @@
+{
+  "id": "us-suncoast-credit-union",
+  "country": "US",
+  "name": "Suncoast Credit Union",
+  "official_name": null,
+  "aliases": [],
+  "institution_type": "unclassified",
+  "status": "unverified",
+  "logo_revision": "e8043d5a6a20a36a",
+  "updated_at": null,
+  "logos": {
+    "icon": {
+      "svg": "v1/assets/us/us-suncoast-credit-union/icon.svg?v=7a07a35489085787",
+      "png": "v1/assets/us/us-suncoast-credit-union/icon.png?v=8973ba55a53f15d3",
+      "artwork_type": "raster_embedded"
+    }
+  },
+  "review_status": "identity_provenance_and_current_status_unverified"
+}
