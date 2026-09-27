@@ -3,7 +3,10 @@
   "country": "IN",
   "name": "Dhanlaxmi Bank",
   "official_name": null,
-  "aliases": [],
+  "aliases": [
+    "Dhan Lakshmi Bank",
+    "Dhanalakshmi Bank"
+  ],
   "institution_type": "bank",
   "status": "active_candidate",
   "logo_revision": "c8336def0b18be69",

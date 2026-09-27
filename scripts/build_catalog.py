@@ -15,6 +15,7 @@ from pathlib import Path
 
 INDIA_NAME_FIXES = {
     "Axis bank": ("Axis Bank", ["Axis bank"]),
+    "Dhanlaxmi Bank": ("Dhanlaxmi Bank", ["Dhan Lakshmi Bank", "Dhanalakshmi Bank"]),
     "Bank of Maharastra": ("Bank of Maharashtra", ["Bank of Maharastra"]),
     "Induslnd Bank": ("IndusInd Bank", ["Induslnd Bank"]),
     "IDFC Bank": ("IDFC FIRST Bank", ["IDFC Bank"]),
@@ -216,11 +217,14 @@ def main() -> int:
     site_source = Path(__file__).resolve().parent.parent / "site" / "index.html"
     if site_source.is_file():
         shutil.copyfile(site_source, output / "index.html")
+    (output / ".nojekyll").write_text("", encoding="utf-8")
+    (output / "CNAME").write_text("banklogos.amitayre.com\n", encoding="utf-8")
     project_root = Path(__file__).resolve().parent.parent
-    for filename in ("README.md", "LICENSE", "ASSETS_AND_MARKS.md", "CONTRIBUTING.md", "CHANGELOG.md"):
+    for filename in ("README.md", "LICENSE", "ASSETS_AND_MARKS.md", "CONTRIBUTING.md", "CHANGELOG.md", "STABILITY.md"):
         source = project_root / filename
-        if source.is_file():
-            shutil.copyfile(source, output.parent / filename)
+        target = output.parent / filename
+        if source.is_file() and source.resolve() != target.resolve():
+            shutil.copyfile(source, target)
     sdk_source = project_root / "sdk" / "logo-catalog.js"
     if sdk_source.is_file():
         sdk_target = output / "sdk" / sdk_source.name
