@@ -4,7 +4,7 @@ One API for bank logos worldwide, growing country by country.
 
 **Designed and maintained by [Amit Ayre](https://labs.amitayre.com).**
 
-[Open the catalog explorer](https://feelfree82.github.io/bank-logo-catalog/)
+[Open the catalog explorer](https://banklogos.amitayre.com/)
 
 The catalog helps an app match a bank name and load only the logo it needs. Developers do not need to bundle the full image library, create an account, or use an API key.
 
@@ -20,10 +20,10 @@ Japan and Canada are planned next.
 ## Quick start
 
 ```js
-import { BankLogoCatalog } from 'https://feelfree82.github.io/bank-logo-catalog/sdk/logo-catalog.js';
+import { BankLogoCatalog } from 'https://banklogos.amitayre.com/sdk/logo-catalog.js';
 
 const catalog = new BankLogoCatalog(
-  'https://feelfree82.github.io/bank-logo-catalog/'
+  'https://banklogos.amitayre.com/'
 );
 
 const customerInput = 'Dhan Lakshmi';
@@ -70,6 +70,8 @@ docs/
 
 The site is a static, read-only catalog hosted on GitHub Pages. Logo URLs include a content revision so clients can cache them and receive a new URL after an update.
 
+The branded domain is the permanent public endpoint. GitHub remains the canonical repository and current host, so the service can move to another CDN later without changing the URLs used by apps. Paths under `v1/` are stable: additions and corrections remain backward compatible, institution IDs are not reassigned, and any future breaking format will use a new version path.
+
 Teams with stricter uptime, traffic, or infrastructure requirements may mirror `docs/` behind their own CDN. The public repository remains the canonical source; a mirror should sync reviewed changes from `main` and preserve revisioned asset paths.
 
 ## Project status
@@ -88,7 +90,7 @@ For a pull request, fork the repository, make one focused catalog change, run th
 
 ## Maintenance
 
-See [`CONTRIBUTING.md`](CONTRIBUTING.md) for stable IDs, updates, new countries, corrections, and removals. Run the catalog validator before publishing a change:
+See [`STABILITY.md`](STABILITY.md) for the public compatibility promise and [`CONTRIBUTING.md`](CONTRIBUTING.md) for stable IDs, updates, new countries, corrections, and removals. Run the catalog validator before publishing a change:
 
 ```sh
 python3 scripts/validate_release.py --root docs
