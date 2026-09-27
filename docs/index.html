@@ -267,7 +267,7 @@
       <section class="section" id="quick-start">
         <div class="section-heading">
           <h2>Quick start</h2>
-          <p>Search above, select a bank, then copy the ready-to-use example.</p>
+          <p>Copy this once. It matches whichever bank name your customer enters.</p>
         </div>
         <div class="use-grid">
           <ol class="steps">
@@ -279,20 +279,24 @@
           <div>
             <div class="code-panel">
               <div class="code-head"><span>Browser JavaScript</span><button class="copy" id="copy" type="button">Copy example</button></div>
-              <pre id="snippet">const base = 'https://feelfree82.github.io/bank-logo-catalog/';
-const id = 'in-hdfc-bank';
+              <pre id="snippet">import { BankLogoCatalog } from
+  'https://feelfree82.github.io/bank-logo-catalog/sdk/logo-catalog.js';
 
-const bank = await fetch(
-  new URL(`v1/institutions/${id}.json`, base)
-).then(response =&gt; response.json());
+const catalog = new BankLogoCatalog(
+  'https://feelfree82.github.io/bank-logo-catalog/'
+);
 
-bankImage.src = new URL(bank.logos.icon.svg, base);</pre>
+const [match] = await catalog.search('IN', customerInput);
+if (!match) throw new Error('Bank not found');
+
+const bank = await catalog.getInstitution(match.id);
+const logoUrl = catalog.logoUrl(bank, 'icon', 'svg').href;</pre>
             </div>
             <div class="endpoints">
               <div class="endpoint"><code>v1/institutions/{id}.json</code><p>One static institution record.</p></div>
               <div class="endpoint"><code>v1/countries/{code}/search-index.json</code><p>Country names and aliases without images.</p></div>
-              <div class="endpoint"><code>v1/search?country=IN&amp;q=hdfc</code><p>Optional limited server search.</p></div>
-              <div class="endpoint"><code>v1/batch?ids={id},{id}</code><p>Optional lookup for known IDs.</p></div>
+              <div class="endpoint"><code>sdk/logo-catalog.js</code><p>Zero-dependency matching and URL helper.</p></div>
+              <div class="endpoint"><code>v1/schema.json</code><p>Record fields and supported variants.</p></div>
             </div>
           </div>
         </div>
@@ -372,17 +376,6 @@ bankImage.src = new URL(bank.logos.icon.svg, base);</pre>
       board.append(image);
     }
 
-    function updateSnippet(id) {
-      snippet.textContent = `const base = 'https://feelfree82.github.io/bank-logo-catalog/';
-const id = '${id}';
-
-const bank = await fetch(
-  new URL(\`v1/institutions/\${id}.json\`, base)
-).then(response => response.json());
-
-bankImage.src = new URL(bank.logos.icon.svg, base);`;
-    }
-
     async function selectRecord(id) {
       selectedId = id;
       document.querySelectorAll('.result-button').forEach(button => button.setAttribute('aria-current', String(button.dataset.id === id)));
@@ -397,7 +390,6 @@ bankImage.src = new URL(bank.logos.icon.svg, base);`;
         fields.revision.textContent = record.logo_revision;
         fields.iconType.textContent = record.logos.icon?.artwork_type?.replaceAll('_', ' ') || '';
         fields.wordmarkType.textContent = record.logos.wordmark?.artwork_type?.replaceAll('_', ' ') || '';
-        updateSnippet(record.id);
         renderArtwork(fields.iconBoard, record.logos.icon, record.name);
         renderArtwork(fields.wordmarkBoard, record.logos.wordmark, record.name);
       } catch (error) {

@@ -116,9 +116,11 @@
     {
       "id": "in-axis-bank",
       "country": "IN",
-      "name": "Axis bank",
+      "name": "Axis Bank",
       "official_name": null,
-      "aliases": [],
+      "aliases": [
+        "Axis bank"
+      ],
       "institution_type": "bank",
       "status": "active_candidate",
       "logo_revision": "835d3b50b3b49442",

@@ -30,8 +30,10 @@
     },
     {
       "id": "in-axis-bank",
-      "name": "Axis bank",
-      "aliases": []
+      "name": "Axis Bank",
+      "aliases": [
+        "Axis bank"
+      ]
     },
     {
       "id": "in-bandhan-bank",

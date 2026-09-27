@@ -14,6 +14,7 @@ from pathlib import Path
 
 
 INDIA_NAME_FIXES = {
+    "Axis bank": ("Axis Bank", ["Axis bank"]),
     "Bank of Maharastra": ("Bank of Maharashtra", ["Bank of Maharastra"]),
     "Induslnd Bank": ("IndusInd Bank", ["Induslnd Bank"]),
     "IDFC Bank": ("IDFC FIRST Bank", ["IDFC Bank"]),
@@ -222,7 +223,7 @@ def main() -> int:
             shutil.copyfile(source, output.parent / filename)
     sdk_source = project_root / "sdk" / "logo-catalog.js"
     if sdk_source.is_file():
-        sdk_target = output.parent / "sdk" / sdk_source.name
+        sdk_target = output / "sdk" / sdk_source.name
         sdk_target.parent.mkdir(parents=True, exist_ok=True)
         shutil.copyfile(sdk_source, sdk_target)
     print(f"Built global candidate: {len(us)} US records, {len(india)} India records, {len(held)} India holds.")

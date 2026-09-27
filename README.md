@@ -20,14 +20,19 @@ Japan and Canada are planned next.
 ## Quick start
 
 ```js
-const base = 'https://feelfree82.github.io/bank-logo-catalog/';
-const id = 'in-hdfc-bank';
+import { BankLogoCatalog } from 'https://feelfree82.github.io/bank-logo-catalog/sdk/logo-catalog.js';
 
-const bank = await fetch(
-  new URL(`v1/institutions/${id}.json`, base)
-).then(response => response.json());
+const catalog = new BankLogoCatalog(
+  'https://feelfree82.github.io/bank-logo-catalog/'
+);
 
-const iconUrl = new URL(bank.logos.icon.svg, base);
+const customerInput = 'Dhan Lakshmi';
+const [match] = await catalog.search('IN', customerInput);
+
+if (match) {
+  const bank = await catalog.getInstitution(match.id);
+  const logoUrl = catalog.logoUrl(bank, 'icon', 'svg').href;
+}
 ```
 
 If the institution ID is not known, fetch and cache the compact search index for the needed country:
@@ -40,6 +45,14 @@ v1/countries/us/search-index.json
 The index contains names, aliases, and IDs. It contains no images. After matching a name, request the individual institution record and then load its icon or wordmark URL.
 
 The zero-dependency helper in [`sdk/logo-catalog.js`](sdk/logo-catalog.js) implements this flow.
+
+### Known institution ID
+
+If an app already stores the catalog ID, it can skip name matching and request the individual record directly:
+
+```js
+const bank = await catalog.getInstitution('in-hdfc-bank');
+```
 
 ## Public files
 
@@ -56,6 +69,8 @@ docs/
 ```
 
 The site is a static, read-only catalog hosted on GitHub Pages. Logo URLs include a content revision so clients can cache them and receive a new URL after an update.
+
+Teams with stricter uptime, traffic, or infrastructure requirements may mirror `docs/` behind their own CDN. The public repository remains the canonical source; a mirror should sync reviewed changes from `main` and preserve revisioned asset paths.
 
 ## Project status
 
