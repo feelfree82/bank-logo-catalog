@@ -65,6 +65,12 @@ This is an independent identification catalog. It is not affiliated with or endo
 
 For a private correction, removal request, or rights-holder claim, email [banklogos@amitayre.com](mailto:banklogos@amitayre.com).
 
+## Contribute
+
+Developers and designers can help add a bank, correct a name, update artwork, or prepare another country. [Open a catalog change](https://github.com/feelfree82/bank-logo-catalog/issues/new?template=catalog-change.yml) if you want to share evidence or request a change without writing code.
+
+For a pull request, fork the repository, make one focused catalog change, run the validator, and explain the official source used to verify it. The full process is in [`CONTRIBUTING.md`](CONTRIBUTING.md).
+
 ## Maintenance
 
 See [`CONTRIBUTING.md`](CONTRIBUTING.md) for stable IDs, updates, new countries, corrections, and removals. Run the catalog validator before publishing a change:

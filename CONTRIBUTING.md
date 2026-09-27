@@ -2,6 +2,20 @@
 
 This is a public beta. Keep review status explicit and do not present unresolved identity, institution status, or provenance as verified.
 
+## Start here
+
+You can contribute without writing code. [Open a catalog change](https://github.com/feelfree82/bank-logo-catalog/issues/new?template=catalog-change.yml) with the bank name, country, requested change, and an official source when one is available.
+
+To submit a pull request:
+
+1. Fork the repository and create a focused branch.
+2. Change one bank, one correction, or one country at a time.
+3. Preserve stable IDs for existing institutions and include the official verification source in the pull request.
+4. Run `python3 scripts/validate_release.py --root docs`.
+5. Open a pull request describing what changed, why, and what you checked.
+
+Do not include customer data, account details, credentials, or copyrighted material unrelated to the requested bank identity.
+
 ## Updating one institution
 
 1. Verify the change against an official institution source where possible and record the URL and review date in source metadata.

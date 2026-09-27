@@ -1,0 +1,51 @@
+name: Catalog change
+description: Add a bank, correct a record, update artwork, request removal, or propose a country.
+title: "[Catalog]: "
+labels:
+  - catalog
+body:
+  - type: dropdown
+    id: change_type
+    attributes:
+      label: What would you like to change?
+      options:
+        - Add a bank
+        - Correct a bank record
+        - Update a logo
+        - Remove a record or asset
+        - Add a country
+        - Something else
+    validations:
+      required: true
+  - type: input
+    id: country
+    attributes:
+      label: Country
+      placeholder: India, USA, Japan, Canada
+    validations:
+      required: true
+  - type: input
+    id: institution
+    attributes:
+      label: Bank or institution
+      placeholder: Name of the institution, if applicable
+  - type: input
+    id: source
+    attributes:
+      label: Official source
+      description: Link to the institution's official website, brand page, registry entry, or other verification source.
+      placeholder: https://
+  - type: textarea
+    id: details
+    attributes:
+      label: What should change?
+      description: Explain the correction, addition, removal, or new-country proposal. You may drag logo files or screenshots here.
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Before submitting
+      options:
+        - label: I have not included customer data, account details, passwords, or other private information.
+          required: true
